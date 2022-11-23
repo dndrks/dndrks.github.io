@@ -3,3 +3,5 @@
 _boop_
 
 ![](/image/somethingdumber.jpg)
+
+[stuff](n.html)
