@@ -1,3 +1,3 @@
 git add *
-git commit -am "update site"
+git commit -am "site updated"
 git push
