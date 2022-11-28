@@ -2,9 +2,9 @@
 
 when i was 8, i met my half-sister as a newborn in a stroller, shortly after my parents started their divorce proceedings. my mom and i ran into my dad with his new family at a local fair, by the strongman game.
 
-by this point, i had seen a lot of violence between my parents -- and as my dad said 'Danny, this is your sister, Chelsea', it was strange to feel both sadness at the idea of new life being brought into what we'd all been through together, and excitement at the possibility that she might signal an end to it.
+by this point, i had seen a lot of violence between my parents -- and as my dad said 'Danny, this is your sister, Chelsea', it was strange to feel both sadness at the idea of new life being brought into what we'd all experienced together, and excitement at the possibility that her arrival might signal an end to it.
  
-unfortunately, things unfolded along the former. as i grew up, i often wondered about Chelsea but my mom clung to the narrative that this door should be left closed. still, i held private hope that i'd find a way to be a part of her life as i got older. when i entered adulthood, though, i was pretty unmoored and didn't feel like our connection could be of any benefit to her -- i had also begun a process of disentangling myself from the family i *did* grow up with, and the idea of seeking more familial connections seemed like it'd just be messy.
+unfortunately, things unfolded along the former trajectory. as i grew up, i often wondered about Chelsea but my mom clung to the narrative that this door should be left closed. still, i held private hope that i'd find a way to be a part of her life as i got older. when i entered adulthood, though, i was pretty unmoored and didn't feel like our connection could be of any benefit to her -- i had also begun a process of disentangling myself from the family i *did* grow up with, and the idea of seeking more familial connections seemed like it'd just be messy.
 
 so, about a decade ago, i released the idea that we'd ever know each other -- given our shared history, this was likely for the best.
  
