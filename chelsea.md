@@ -19,7 +19,7 @@ so, on a long train ride between north carolina and new york, i wrote her an ema
 over the course of a lot of long phone calls, Chelsea helped me excavate the space which i had poured fear into for 26 years. through her honesty and willingness to take things as they went, we were able backfill it with ease, care, and love.
 
 and last november, i got to meet her and the family she's starting:   
-![](/image/_chelsea.jpg)
+![](../image/_chelsea.jpg)
 
 ## an ask
 
