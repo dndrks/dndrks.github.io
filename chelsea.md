@@ -19,11 +19,11 @@ so, on a long train ride between north carolina and new york, i wrote her an ema
 over the course of a lot of long phone calls, Chelsea helped me excavate the space which i had poured fear into for 26 years. through her honesty and willingness to take things as they went, we were able backfill it with ease, care, and love.
 
 and last november, i got to meet her and the family she's starting:   
-![](../image/_chelsea.jpg)
+![](image/_chelsea.jpg)
 
-## an ask
+## an ask for assistance
 
-i'd like to help Chelsea and her partner navigate a recent bout of housing + employment troubles. i'm looking to gather a bit of a solid foundation for them, so that they can begin building a life beyond their circumstances as a low-income, multiracial family. this includes enrolling in continuing education (her partner is looking to get his GED and Chelsea's pursuing nursing licensure + returning to college), being able to reduce their gig-economy work hours to actually apply for / interview for higher-paying + stable roles, fixing their car from a recent drive by-shooting while on a DoorDash run (thankfully, the kids were not in the car and neither Chelsea or her partner were hurt), and taking care of the past due bills which have piled up as they traversed a months-long runaround from housing authorities in Massachusetts.
+i'd like to help Chelsea and her partner navigate a recent bout of housing + employment troubles. i'm hoping to gather a bit of a solid foundation for them, so that they can begin building a life beyond their circumstances as a low-income, multiracial family. this includes enrolling in continuing education (her partner is looking to get his GED and Chelsea's pursuing nursing licensure + returning to college), being able to reduce their gig-economy work hours to actually apply for / interview for higher-paying + stable roles, fixing their car from a recent drive by-shooting while on a DoorDash run (thankfully, the kids were not in the car and neither Chelsea or her partner were hurt), and taking care of the past due bills which have piled up as they traversed a months-long runaround from housing authorities in Massachusetts.
 
 to donate, please visit [our PayPal fundraiser](https://www.paypal.com/pools/c/8PoPT7a49z). everything will go to Chelsea + her family directly -- i'm only organizing to hopefully cast a wide net.
 
