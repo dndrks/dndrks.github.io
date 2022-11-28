@@ -1,3 +1,5 @@
+[a fundraiser for my half-sister](/chelsea.html) (nov 28 - dec 28, 2022)
+
 # sounds
 
 [mirrored heart](https://dndrks.bandcamp.com/album/mirrored-heart) (2022 and ongoing): improvisations with *hills*, a script for [norns](https://monome.org/docs/norns)  
@@ -18,3 +20,10 @@ writing for [Cycling '74](https://cycling74.com):
 [An Interview with Sarah Belle Reid](https://cycling74.com/articles/an-interview-with-sarah-belle-reid)  
 [Max for Live Devices: The Tools At Your Fingertips](https://cycling74.com/articles/ableton-max-for-live-devices-the-tools-at-your-fingertips)  
 [The Max for Live Resource Kit](https://cycling74.com/articles/the-max-for-live-resource-kit)
+
+# code
+
+[cheat codes 2](https://llllllll.co/t/cheat-codes-2-rev-221007-lts9-more-important-fixes/38414): a sample playground ([norns](https://monome.org))  
+[cranes](https://llllllll.co/t/cranes/21207): stereo varispeed looper / delay / timeline-smoosher (norns)  
+[less concepts](https://llllllll.co/t/less-concepts/54178): 1d cellular automata sequencer (norns)  
+[less concepts](https://maxforlive.com/library/device/6167/less-concepts): 1d cellular automata sequencer ([max for live](https://www.ableton.com/en/live/max-for-live/))
