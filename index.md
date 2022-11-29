@@ -1,4 +1,4 @@
-[a fundraiser for my half-sister](/chelsea.html) (nov 28 - dec 28, 2022)
+[a fundraiser for my half-sister](/chelsea.html) (nov 29 - dec 29, 2022)
 
 # sounds
 
