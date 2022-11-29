@@ -25,7 +25,7 @@ and last november, i got to meet her and the family she's starting:
 
 i'd like to help Chelsea and her partner navigate a recent bout of housing + employment troubles. i'm hoping to gather a bit of a solid foundation for them, so that they can begin building a life beyond their circumstances as a low-income, multiracial family. this includes enrolling in continuing education (her partner is looking to get his GED and Chelsea's pursuing nursing licensure + returning to college), being able to reduce their gig-economy work hours to actually apply for / interview for higher-paying + stable roles, fixing their car from a recent drive by-shooting while on a DoorDash run (thankfully, the kids were not in the car and neither Chelsea or her partner were hurt), and taking care of the past due bills which have piled up as they traversed a months-long runaround from housing authorities in Massachusetts.
 
-to donate, please visit [our PayPal fundraiser](https://www.paypal.com/pools/c/8PoPT7a49z). everything will go to Chelsea + her family directly -- i'm only organizing to hopefully cast a wide net.
+to donate, please visit **[our PayPal fundraiser](https://www.paypal.com/pools/c/8Pq78ikUnZ)**. everything will go to Chelsea + her family directly -- i'm only organizing to hopefully cast a wide net.
 
 i'm so grateful for the time you've taken to read this + hope that the year is closing well for you <3
 
