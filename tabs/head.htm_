@@ -1,0 +1,29 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>dndrks</title>
+    <meta name="keywords" content="derks">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    @font-face {
+      font-family: 'Roboto Mono'; font-style: normal; font-weight: 400;
+      src: local(''),
+        url('../include/roboto-mono-v21-latin-regular.woff2') format('woff2'),
+        url('../include/roboto-mono-v21-latin-regular.woff') format('woff'); }
+    body {background-color:#CFFEC7; max-width:800px; color:#000; 
+      font-family: 'Roboto Mono', monospace; font-size: 0.8em;}
+    pre {font-size: 1.3em; color:#222;}
+    h1 {font-weight:bold; font-size: 1.6em; margin-top:2em;}
+    hr {margin-top: 4em; border: none; background-color: #555; color: #555; height: 1px;}
+    a {color:#333;}
+    a:hover {color:#555;}
+    img {margin-top: 4em; max-width:100%;}
+    input {font-family: inherit;}
+</style>
+</head>
+<body>
+    <div style="margin:20px">
+<br/>
+<br/>
