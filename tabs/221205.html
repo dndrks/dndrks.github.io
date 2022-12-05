@@ -1,0 +1,73 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>dndrks</title>
+    <meta name="keywords" content="derks">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    @font-face {
+      font-family: 'Roboto Mono'; font-style: normal; font-weight: 400;
+      src: local(''),
+        url('../include/roboto-mono-v21-latin-regular.woff2') format('woff2'),
+        url('../include/roboto-mono-v21-latin-regular.woff') format('woff'); }
+    body {background-color:#CFFEC7; max-width:800px; color:#000; 
+      font-family: 'Roboto Mono', monospace; font-size: 0.8em;}
+    pre {font-size: 1.3em; color:#222;}
+    h1 {font-weight:bold; font-size: 1.6em; margin-top:2em;}
+    hr {margin-top: 4em; border: none; background-color: #555; color: #555; height: 1px;}
+    a {color:#333;}
+    a:hover {color:#555;}
+    img {margin-top: 4em; max-width:100%;}
+    input {font-family: inherit;}
+</style>
+</head>
+<body>
+    <div style="margin:20px">
+<br/>
+<br/>
+<h2>221205</h2>
+<h3>life</h3>
+<ul>
+<li><a href="https://www.sessions.edu/color-calculator/">color calculator</a>: great for finding complementary colors, used to find this background. main site is <code>fed1c7</code>.</li>
+<li><a href="https://chainsawlarry.com/what-size-chainsaw-do-i-need/">chainsaw sizes</a> (14&quot;)</li>
+<li><a href="https://www.homedepot.com/p/RYOBI-40V-HP-Brushless-14-in-Cordless-Battery-Chainsaw-with-4-0-Ah-Battery-and-Charger-RY405100/317374681">ryobi chainsaw</a></li>
+<li>pellet stove settings <code>6-4-1</code></li>
+<li><a href="https://www.tiktok.com/@mestreensinador1/video/7167077459135892741">video of you as a baby</a></li>
+</ul>
+<h3>synthesis</h3>
+<ul>
+<li><a href="https://github.com/markwheeler/molly_the_poly/blob/master/lib/Engine_MollyThePoly.sc">Molly the Polly</a> outlines great use of <code>Select.kr</code> (choosing pulse width mod source)</li>
+<li><a href="https://github.com/markwheeler/passersby/blob/master/lib/Engine_Passersby.sc">Passersby</a> outlines great use of LFO busses</li>
+<li><a href="https://electro-music.com/forum/topic-33591.html">reset LFO phase on-demand</a></li>
+<li><a href="https://www.mkdocs.org/getting-started/#building-the-site">mkdocs</a></li>
+<li><a href="https://aubio.org">aubio</a>, which Zack uses in <a href="https://github.com/schollz/zxcvbn/blob/main/lib/softsample.lua#L65">zxcvbn</a> to do transient splitting</li>
+<li>Zack's <a href="https://github.com/schollz/paracosms/blob/main/paracosms.lua#L111">manual install</a> for the supercollider-plugins</li>
+<li><a href="https://cdn.www.elektron.se/media/downloads/analog-four-mkii/Analog-Four-MKII-User-Manual_ENG_OS1.51C_220204.pdf">Analog Four user manual</a> + <a href="https://support.elektron.se/support/solutions/articles/43000566551-oscillators">sub-oscillator description</a></li>
+<li><a href="https://www.daniel-mayer.at/software_en.htm">miSCellaneous program library for SuperCollider</a>: has a <em>great</em> waveshaper, dang. also, demonstrated <a href="https://pustota.basislager.org/_/sc-help/Help/Tutorials/Smooth_Clipping_and_Folding.html">stereo-split LFO manipulations</a>, which is raaaad:</li>
+</ul>
+<pre><code>	x = {
+		SmoothFoldS.ar(
+			in: SinOsc.ar(50),
+			lo: -0.3,
+			hi: 0.1,
+			foldRange: SinOsc.kr(0.4, [0, pi]).range(0.1, 1)
+	) }.play;
+</code></pre>
+<ul>
+<li><code>.range(lo: 0.0, hi: 1.0)</code>: Scales the output of this UGen to be within the range of lo and hi (<a href="https://doc.sccode.org/Classes/UGen.html#-range">source</a>)</li>
+<li>modulation stuff that i don't want to lose track of: <a href="https://thormagnusson.gitbooks.io/scoring/content/PartII/chapter7.html">1</a>, <a href="https://composerprogrammer.com/teaching/supercollider/sctutorial/2.4%20Modulation%20Synthesis.html">2</a>, <a href="https://www.berkeleynoise.com/celesteh/code/tutorials/supercollider05%20synthesis%20techniques.pdf">3</a>, <a href="https://doc.sccode.org/Classes/PMOsc.html">4</a>, <a href="http://cs.wellesley.edu/~cs203/lecture_materials/freq_phase_modulation/freq_phase_modulation.pdf">5</a></li>
+<li><a href="https://ccrma.stanford.edu/~dfl/220b/hw4.htm">super saw stuff</a></li>
+<li><a href="https://learn.flucoma.org/learn/decomposition-overview/">flucoma!</a></li>
+</ul>
+<h3>code</h3>
+<ul>
+<li>Unfold Recursively (Ctrl+K Ctrl+]) unfolds the region at the cursor and all regions inside that region. Fold All (Ctrl+K Ctrl+0) folds all regions in the editor. Unfold All (Ctrl+K Ctrl+J) unfolds all regions in the editor.</li>
+<li>first character of string in Lua: <code>s:sub(1, 1)</code></li>
+</ul>
+<hr/>
+<p>updated 12/05/22</p>
+</div>
+</body>
+</html><!doctype html>
