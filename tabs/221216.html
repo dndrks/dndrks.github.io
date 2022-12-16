@@ -1,0 +1,64 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>dndrks</title>
+    <meta name="keywords" content="derks">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    @font-face {
+      font-family: 'Roboto Mono'; font-style: normal; font-weight: 400;
+      src: local(''),
+        url('../include/roboto-mono-v21-latin-regular.woff2') format('woff2'),
+        url('../include/roboto-mono-v21-latin-regular.woff') format('woff'); }
+    body {background-color:#CFFEC7; max-width:800px; color:#000; 
+      font-family: 'Roboto Mono', monospace; font-size: 0.8em;}
+    pre {font-size: 1.3em; color:#222;}
+    h1 {font-weight:bold; font-size: 1.6em; margin-top:2em;}
+    hr {margin-top: 4em; border: none; background-color: #555; color: #555; height: 1px;}
+    a {color:#333;}
+    a:hover {color:#555;}
+    img {margin-top: 4em; max-width:100%;}
+    input {font-family: inherit;}
+</style>
+</head>
+<body>
+    <div style="margin:20px">
+<br/>
+<br/>
+<h2>221216</h2>
+<h3>life</h3>
+<ul>
+<li><a href="https://mariamrezaei.bandcamp.com/album/sadtitzzz">Mariam Rezaei</a></li>
+<li><a href="https://www.httrack.com/html/fcguide.html">httrack website copier</a></li>
+<li><a href="https://www.youtube.com/channel/UCU85cqdRQh8HBpk94vbcS_g">electronicos fantasticos</a>: japanese reclaimed e-waste band that rich showed me!</li>
+</ul>
+<h3>synthesis</h3>
+<ul>
+<li>scott eric peterson: <a href="https://www.scottericpetersen.com/2021/01/13/sculpting-gestural-space-with-envelopes-part-1/">envelopes in SC</a> + <a href="https://www.scottericpetersen.com/2022/05/05/its-worth-learning-to-do-it-yourself/">learning to DIY</a></li>
+<li><a href="https://www.collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp01/MQ43890.pdf">digital recursive filters paper -- CSound and SC</a> (also <a href="./files/filters.pdf">local</a> to this site)</li>
+<li>thor magnusson's <a href="https://thormagnusson.gitbooks.io/scoring/content/PartII/chapter8.html">sc book</a></li>
+<li>SC <a href="https://doc.sccode.org/Classes/EnvGen.html#Forced%20release">envelope forced release</a></li>
+<li>eli fieldsteel's <a href="https://www.youtube.com/watch?v=MiSs763YVJY">envelope class video</a> + <a href="https://www.youtube.com/watch?v=q1VQAZKh6_8">waveshaping class</a></li>
+<li>SH-101 has a noise osc as well, want to mix that into <code>kildare</code>?</li>
+<li>OMG <a href="https://github.com/madskjeldgaard/portedplugins">PORTEDPLUGINS</a> -- mads is a dang saint. also, <a href="https://github.com/madskjeldgaard/nornsgenerate">nornsgenerate</a>.</li>
+<li><a href="https://www.native-instruments.com/fileadmin/ni_media/downloads/pdf/VAFilterDesign_1.1.1.pdf">filter design paper</a> (also <a href="./files/VAFilterDesign_1.1.1.pdf">local</a>)</li>
+</ul>
+<h3>code</h3>
+<ul>
+<li><a href="https://github.com/monome/norns/pull/1614/files">rylee's excellent missing ugen check</a></li>
+<li>^ which gets used in <code>kildare</code> to check for <a href="https://github.com/dkmayer/miSCellaneous_lib">miSCellaneous_lib</a>. <a href="https://pustota.basislager.org/_/sc-help/Help/Tutorials/Smooth_Clipping_and_Folding.html">this help page</a> is also pretty illuminating re: wavefolding.</li>
+<li><code>mkdir -p</code> will create directory + any parent directories needed</li>
+<li><a href="https://www.lua.org/pil/16.4.html">lua private methods</a></li>
+<li><a href="https://aubio.org/manual/latest/cli.html#aubio">aubio</a></li>
+<li>zack's use of ^ to <a href="https://github.com/schollz/zxcvbn/blob/main/lib/softsample.lua#L58-L67">get onsets</a></li>
+<li>in SC, symbols are <em>not</em> strings! need to use <code>.asString</code> on a symbol (eg. <code>\cutoff</code>) to get the string value (eg. <code>cutoff</code>)</li>
+<li>batch convert <code>.wav</code> to <code>.flac</code> with sox: <code>for f in *.wav; do sox &quot;$f&quot; &quot;${f%.wav}.flac&quot;; done</code></li>
+<li><code>norns.version.update</code> has always existed, holds the current version as a string</li>
+</ul>
+<hr/>
+<p>updated 12/16/22</p>
+</div>
+</body>
+</html><!doctype html>
