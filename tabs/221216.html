@@ -55,6 +55,11 @@
 <li>zack's use of ^ to <a href="https://github.com/schollz/zxcvbn/blob/main/lib/softsample.lua#L58-L67">get onsets</a></li>
 <li>in SC, symbols are <em>not</em> strings! need to use <code>.asString</code> on a symbol (eg. <code>\cutoff</code>) to get the string value (eg. <code>cutoff</code>)</li>
 <li>batch convert <code>.wav</code> to <code>.flac</code> with sox: <code>for f in *.wav; do sox &quot;$f&quot; &quot;${f%.wav}.flac&quot;; done</code></li>
+<li>batch unquarantine files from 'unidentified developers': <code>xattr -d -r com.apple.quarantine &quot;string_path_to_file&quot;</code>
+<ul>
+<li><code>for i in *.scx; do xattr -d -r com.apple.quarantine &quot;$i&quot;; done</code></li>
+</ul>
+</li>
 <li><code>norns.version.update</code> has always existed, holds the current version as a string</li>
 </ul>
 <hr/>
