@@ -1,0 +1,75 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>dndrks</title>
+    <meta name="keywords" content="derks">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    @font-face {
+      font-family: 'Roboto Mono'; font-style: normal; font-weight: 400;
+      src: local(''),
+        url('../include/roboto-mono-v21-latin-regular.woff2') format('woff2'),
+        url('../include/roboto-mono-v21-latin-regular.woff') format('woff'); }
+    body {background-color:#CFFEC7; max-width:800px; color:#000; 
+      font-family: 'Roboto Mono', monospace; font-size: 0.8em;}
+    pre {font-size: 1.3em; color:#222;}
+    h1 {font-weight:bold; font-size: 1.6em; margin-top:2em;}
+    hr {margin-top: 4em; border: none; background-color: #555; color: #555; height: 1px;}
+    a {color:#333;}
+    a:hover {color:#555;}
+    img {margin-top: 4em; max-width:100%;}
+    input {font-family: inherit;}
+    code {
+      background: #ffeff0;
+      word-wrap: break-word;
+      box-decoration-break: clone;
+      padding: .1rem .3rem .2rem;
+      border-radius: .2rem; 
+    }
+</style>
+  <link href="themes/prism.css" rel="stylesheet" />
+</head>
+<body>
+    <div style="margin:20px">
+<br/>
+<br/>
+<h2>221226</h2>
+<h3>life</h3>
+<ul>
+<li><code>cd ..</code> to move back a directory</li>
+<li><a href="https://daily.bandcamp.com/best-of-2022/the-best-electronic-music-of-2022">bandcamp best electronic music of 2022</a></li>
+<li><a href="https://drive.google.com/drive/folders/1wbn5d3sBZKnVO5ufXjxoViRfO7IAdi_A">n ev / scrapes</a></li>
+<li>Rylee's <a href="https://alanza.bandcamp.com/album/learning-to-run?from=embed">Learning to Run</a> + <a href="https://ryleealanza.org/2022/10/13/Aliasing.html">aliasing writeup</a> + <a href="https://github.com/ryleelyman/FormantTriPTR">FormatTriPTR</a> + <a href="https://github.com/ryleelyman/bitters-max">bitters (max)</a></li>
+<li><a href="./files/fm_theory_and_applications.pdf">fm theory and applications</a></li>
+<li>book recommendations from Nick Turner: <a href="https://www.kobo.com/us/en/ebook/each-moment-is-the-universe">each moment is the universe</a> + <a href="https://www.kobo.com/us/en/ebook/you-have-to-say-something-1">you have to say something</a></li>
+</ul>
+<h3>synthesis</h3>
+<ul>
+<li><a href="https://github.com/cristianvogel/MonomeGridToBitwig">monome grid to bitwig from cristian vogel</a></li>
+<li><a href="https://www.mossgrabers.de/Software/Bitwig/Bitwig.html#4.3">bitwig extensions (osc is my interest)</a></li>
+<li><a href="https://www.youtube.com/watch?v=q1VQAZKh6_8">waveshaping w/Eli Fieldsteel</a></li>
+</ul>
+<h3>code</h3>
+<ul>
+<li><a href="https://superuser.com/questions/486465/how-to-mass-prepend-text-to-file-names">mass prepend text to filenames</a></li>
+<li><a href="https://springrts.com/wiki/Lua_Performance">lua performance tests</a> + <a href="http://lua-users.org/wiki/OptimisationTips">optimization tips</a> + <a href="https://www.lua.org/gems/sample.pdf">tips pdf</a></li>
+<li><code>sox source.wav -r 48000 source.wav</code> -- 48khz conversion with sox</li>
+<li>To change all the directories to 755 (drwxr-xr-x):
+<pre><code class="language-bash">find /opt/lampp/htdocs -type d -exec chmod 755 {} \;
+</code></pre>
+To change all the files to 644 (-rw-r--r--):
+<pre><code class="language-bash">find /opt/lampp/htdocs -type f -exec chmod 644 {} \;
+</code></pre>
+</li>
+<li><a href="https://doc.sccode.org/Tutorials/Getting-Started/04-Functions-and-Other-Functionality.html">functions in SuperCollider</a> -- big note is that they get evaluated with <code>.value</code></li>
+<li>from Glänta: <a href="https://dhemery.github.io/DHE-Modules/technical/sigmoid/">sigmoid function</a></li>
+<li></li>
+</ul>
+<hr/>
+<p>updated 12/26/22</p>
+</div>
+  <script src="prism.js"></script>
+</body>
+</html><!doctype html>

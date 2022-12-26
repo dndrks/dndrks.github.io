@@ -8,6 +8,16 @@
 [nested](https://dndrks.bandcamp.com/album/nested) (2019): improvisations with *less concepts* and an STS Serge Animal at the Vintage Synth Museum's Oakland, CA location  
 [less concepts](https://dndrks.bandcamp.com/album/less-concepts) (2018): experiments with cellular automata, modular synths, and Max programming
 
+# videos
+
+[live @ luck dragon w/ jonathan snyder (220924)](https://youtu.be/yi5bkzskNHU)  
+[cached season 2 showcase 2022](https://youtu.be/rz2OikX6flE)  
+[flash crash 210904](https://youtu.be/R5ZvS1veyEw)  
+[first light: norns study 0 livestream](https://youtu.be/ciSvjxI5cyg)  
+[open space (4/12/2020): cheat codes improvisation](https://youtu.be/sefSi1cqWjU)  
+[various norns tutorials + demos on vimeo](https://vimeo.com/user16329159)  
+music hackspace courses for cheat codes 2: [getting started](https://musichackspace.org/product/getting-started-with-cheat-codes-2-a-sample-playground-for-monome-norns/) + [going further](https://musichackspace.org/events/going-further-with-cheat-codes-2-a-sample-playground-for-norns-live-session/)
+
 # words
 
 [SOUND + PROCESS, a lines podcast](https://soundcloud.com/sound-and-process/) (2016 and ongoing): discussions with artists from [llllllll.co](https://llllllll.co)  

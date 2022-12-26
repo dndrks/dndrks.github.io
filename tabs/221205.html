@@ -21,7 +21,15 @@
     a:hover {color:#555;}
     img {margin-top: 4em; max-width:100%;}
     input {font-family: inherit;}
+    code {
+      background: #ffeff0;
+      word-wrap: break-word;
+      box-decoration-break: clone;
+      padding: .1rem .3rem .2rem;
+      border-radius: .2rem; 
+    }
 </style>
+  <link href="themes/prism.css" rel="stylesheet" />
 </head>
 <body>
     <div style="margin:20px">
@@ -45,17 +53,16 @@
 <li><a href="https://aubio.org">aubio</a>, which Zack uses in <a href="https://github.com/schollz/zxcvbn/blob/main/lib/softsample.lua#L65">zxcvbn</a> to do transient splitting</li>
 <li>Zack's <a href="https://github.com/schollz/paracosms/blob/main/paracosms.lua#L111">manual install</a> for the supercollider-plugins</li>
 <li><a href="https://cdn.www.elektron.se/media/downloads/analog-four-mkii/Analog-Four-MKII-User-Manual_ENG_OS1.51C_220204.pdf">Analog Four user manual</a> + <a href="https://support.elektron.se/support/solutions/articles/43000566551-oscillators">sub-oscillator description</a></li>
-<li><a href="https://www.daniel-mayer.at/software_en.htm">miSCellaneous program library for SuperCollider</a>: has a <em>great</em> waveshaper, dang. also, demonstrated <a href="https://pustota.basislager.org/_/sc-help/Help/Tutorials/Smooth_Clipping_and_Folding.html">stereo-split LFO manipulations</a>, which is raaaad:</li>
-</ul>
-<pre><code>	x = {
-		SmoothFoldS.ar(
-			in: SinOsc.ar(50),
-			lo: -0.3,
-			hi: 0.1,
-			foldRange: SinOsc.kr(0.4, [0, pi]).range(0.1, 1)
-	) }.play;
+<li><a href="https://www.daniel-mayer.at/software_en.htm">miSCellaneous program library for SuperCollider</a>: has a <em>great</em> waveshaper, dang. also, demonstrated <a href="https://pustota.basislager.org/_/sc-help/Help/Tutorials/Smooth_Clipping_and_Folding.html">stereo-split LFO manipulations</a>, which is raaaad:
+<pre><code class="language-js"> x = {
+ 	SmoothFoldS.ar(
+ 		in: SinOsc.ar(50),
+ 		lo: -0.3,
+ 		hi: 0.1,
+ 		foldRange: SinOsc.kr(0.4, [0, pi]).range(0.1, 1)
+ ) }.play;
 </code></pre>
-<ul>
+</li>
 <li><code>.range(lo: 0.0, hi: 1.0)</code>: Scales the output of this UGen to be within the range of lo and hi (<a href="https://doc.sccode.org/Classes/UGen.html#-range">source</a>)</li>
 <li>modulation stuff that i don't want to lose track of: <a href="https://thormagnusson.gitbooks.io/scoring/content/PartII/chapter7.html">1</a>, <a href="https://composerprogrammer.com/teaching/supercollider/sctutorial/2.4%20Modulation%20Synthesis.html">2</a>, <a href="https://www.berkeleynoise.com/celesteh/code/tutorials/supercollider05%20synthesis%20techniques.pdf">3</a>, <a href="https://doc.sccode.org/Classes/PMOsc.html">4</a>, <a href="http://cs.wellesley.edu/~cs203/lecture_materials/freq_phase_modulation/freq_phase_modulation.pdf">5</a></li>
 <li><a href="https://ccrma.stanford.edu/~dfl/220b/hw4.htm">super saw stuff</a></li>
@@ -68,7 +75,8 @@
 <li>remove last character of string in Lua: <code>text:sub(1, -2)</code></li>
 </ul>
 <hr/>
-<p>updated 12/05/22</p>
+<p>updated 12/26/22</p>
 </div>
+  <script src="prism.js"></script>
 </body>
 </html><!doctype html>
