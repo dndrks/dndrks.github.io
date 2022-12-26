@@ -21,6 +21,13 @@
     a:hover {color:#555;}
     img {margin-top: 4em; max-width:100%;}
     input {font-family: inherit;}
+    code {
+      background: #ffeff0;
+      word-wrap: break-word;
+      box-decoration-break: clone;
+      padding: .1rem .3rem .2rem;
+      border-radius: .2rem; 
+    }
 </style>
 </head>
 <body>
