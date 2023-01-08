@@ -3,8 +3,8 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>dndrks</title>
-    <meta name="keywords" content="monome, derks">
+    <title>dndrks/images</title>
+    <meta name="keywords" content="derks">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
     @font-face {
@@ -12,14 +12,14 @@
       src: local(''),
         url('../include/roboto-mono-v21-latin-regular.woff2') format('woff2'),
         url('../include/roboto-mono-v21-latin-regular.woff') format('woff'); }
-    body {background-color:#FED1C7; max-width:800px; color:#000; 
+    body {background-color:#808080; max-width:800px; color:#FFFFFF; 
       font-family: 'Roboto Mono', monospace; font-size: 0.8em;}
     pre {font-size: 1.3em; color:#222;}
     h1 {font-weight:bold; font-size: 1.6em; margin-top:2em;}
     hr {margin-top: 4em; border: none; background-color: #555; color: #555; height: 1px;}
     a {color:#333;}
     a:hover {color:#555;}
-    img {margin-top: 4em; max-width:100%;}
+    img {margin-top: 2em; max-width:100%;}
     input {font-family: inherit;}
     code {
       background: #ffeff0;
@@ -29,20 +29,9 @@
       border-radius: .2rem; 
     }
 </style>
+  <link href="themes/prism.css" rel="stylesheet" />
 </head>
 <body>
     <div style="margin:20px">
 <br/>
 <br/>
-<h1>221123</h1>
-<h2>david's ADC22 talk</h2>
-<p>https://conference.audio.dev/session/keynote-incompleteness-is-a-feature-not-a-bug/</p>
-<ul>
-<li>variables are meant to control many parameters at once</li>
-<li>a lot of complexity, but a low dimension of control</li>
-</ul>
-<hr/>
-<p>updated 11/23/22</p>
-</div>
-</body>
-</html><!doctype html>
