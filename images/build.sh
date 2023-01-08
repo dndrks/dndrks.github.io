@@ -12,15 +12,3 @@ for file in $list ; do
   cat foot.htm_ >> ${target}
   sed -i '' -e 's#DATE#'$date'#g' ${target}
 done
-
-alias change='cd tabs'
-change
-echo "entering tabs folder"
-./build.sh
-
-alias change='cd ..'
-change
-alias change='cd images'
-change
-echo "entering images folder"
-./build.sh
