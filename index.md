@@ -38,6 +38,6 @@ writing for [Cycling '74](https://cycling74.com):
 
 # more
 
-[*a fundraiser for my half-sister*](/chelsea.html)  
-[*images*](/images)  
-[*open tabs*](/tabs)  
+[a fundraiser for my half-sister](/chelsea.html)  
+[images](/images)  
+[open tabs](/tabs)  
