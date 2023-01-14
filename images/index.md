@@ -1,5 +1,6 @@
 *gouache + watercolor ink on YUPO Medium*
 
+![](230112.jpeg)  
 ![](230109-1.jpeg)  
 ![](230109-2.jpeg)  
 ![](230105-2.jpeg)  
