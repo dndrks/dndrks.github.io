@@ -1,3 +1,5 @@
+[![beloved.wtf show on January 22, 2023](/images/beloved_230122.jpeg)](https://beloved.wtf)
+
 # sounds
 
 [mirrored heart](https://dndrks.bandcamp.com/album/mirrored-heart) (2022 and ongoing): improvisations with *hills*, a script for [norns](https://monome.org/docs/norns)  
