@@ -1,4 +1,4 @@
-[![beloved.wtf show on January 22, 2023](/images/beloved_230122.jpeg)](https://beloved.wtf)
+[![beloved.wtf show on January 22, 2023](/images/beloved_230122.png)](https://beloved.wtf)
 
 # sounds
 
