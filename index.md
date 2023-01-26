@@ -1,8 +1,10 @@
 [![show on February 11th, 2023 at BUSHEL Collective](/images/bushel-230211.jpeg)](https://www.eventbrite.com/e/glockabelles-lovefest-tickets-516252343657)
 
+poster design: [Racquel Cable](https://www.instagram.com/uncool.rocky/)
+
 *live performances by Yuka C. Honda, Glockabelle & Dan Derks in the name of Love.  
 set interludes and post performance Love mix by [DJ] Marcus  
-February 11th, 2023 at BUSHEL Collective (106 Main St in Delhi, NY 13753)*
+February 11th, 2023 at [BUSHEL Collective](https://www.bushelcollective.org) (106 Main St in Delhi, NY 13753)*
 
 # sounds
 
