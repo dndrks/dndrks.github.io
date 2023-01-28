@@ -8,7 +8,7 @@ February 11th, 2023 at [BUSHEL Collective](https://www.bushelcollective.org) (10
 
 # sounds
 
-[beloved.wtf](https://www.mixcloud.com/belovedwtf/beloved-radio-dan-derks/) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music  
+[beloved.wtf](/beloved) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music  
 [mirrored heart](https://dndrks.bandcamp.com/album/mirrored-heart) (2022 and ongoing): improvisations with *hills*, a script for [norns](https://monome.org/docs/norns)  
 [QUALIA](https://cachedmedia.bandcamp.com/album/qualia) (2022): collaborative compositions with Zander Raymond, recorded at monome in rural New York  
 [phylum](https://dndrks.bandcamp.com/album/phylum) (2019): collected recordings from testing *less concepts*, *cranes* and *cheat codes*  
