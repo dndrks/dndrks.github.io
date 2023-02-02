@@ -10,8 +10,10 @@ February 11th, 2023 at [BUSHEL Collective](https://www.bushelcollective.org) (10
 
 [beloved.wtf](/beloved) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music  
 [mirrored heart](https://dndrks.bandcamp.com/album/mirrored-heart) (2022 and ongoing): improvisations with *hills*, a script for [norns](https://monome.org/docs/norns)  
-[QUALIA](https://cachedmedia.bandcamp.com/album/qualia) (2022): collaborative compositions with Zander Raymond, recorded at monome in rural New York  
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/episode-30-dan-derks/id1478532016?i=1000517679364"></iframe>  
+[QUALIA](https://cachedmedia.bandcamp.com/album/qualia) (2022): collaborative compositions with Zander Raymond, recorded at monome in rural NY  
+Ambient Vault - Episode 30 (2021): demos of explorations which informed the process for *phylum*
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/episode-30-dan-derks/id1478532016?i=1000517679364"></iframe>
+
 [phylum](https://dndrks.bandcamp.com/album/phylum) (2019): collected recordings from testing *less concepts*, *cranes* and *cheat codes*  
 [nested](https://dndrks.bandcamp.com/album/nested) (2019): improvisations with *less concepts* and an STS Serge Animal at the Vintage Synth Museum's Oakland, CA location  
 [less concepts](https://dndrks.bandcamp.com/album/less-concepts) (2018): experiments with cellular automata, modular synths, and Max programming
