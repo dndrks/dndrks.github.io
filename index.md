@@ -1,11 +1,3 @@
-[![show on February 11th, 2023 at BUSHEL Collective](/images/bushel-230211.jpeg)](https://www.eventbrite.com/e/glockabelles-lovefest-tickets-516252343657)
-
-poster design: [Racquel Cable](https://www.instagram.com/uncool.rocky/)
-
-*live performances by Yuka C. Honda, Glockabelle & Dan Derks in the name of Love.  
-set interludes and post performance Love mix by [DJ] Marcus  
-February 11th, 2023 at [BUSHEL Collective](https://www.bushelcollective.org) (106 Main St in Delhi, NY 13753)*
-
 # sounds
 
 [beloved.wtf](/beloved) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music  
@@ -53,3 +45,8 @@ writing for [Cycling '74](https://cycling74.com):
 [a fundraiser for my half-sister](/chelsea.html)  
 [images](/images)  
 [open tabs](/tabs)  
+
+### recent live shows
+
+**Feb 11 2023** - [Glockabelle's LoveFest](/images/bushel-230211.jpeg) at [BUSHEL](https://www.bushelcollective.org) w/ Yuka C. Honda, Glockabelle & [DJ] Marcus  
+**Sept 24 2022** - [w/ Jonathan Snyder](https://luckdragon.space/event/220924-jonathan-snyder-dan-derks.html) at [luck dragon](https://luckdragon.space)

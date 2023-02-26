@@ -29,7 +29,7 @@
       border-radius: .2rem; 
     }
     li {
-      color:#fdbcb4;
+      color:DOT_COLOR;
     }
 </style>
   <link href="themes/prism.css" rel="stylesheet" />
@@ -59,7 +59,7 @@
 <li><a href="https://ifizu.bandcamp.com/album/ouanem">glia - god is not partial</a></li>
 </ul>
 <hr/>
-<p>updated 02/26/23</p>
+<p>updated DATE</p>
 </div>
   <script src="prism.js"></script>
 </body>
