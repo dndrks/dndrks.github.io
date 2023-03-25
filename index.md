@@ -1,6 +1,14 @@
+[![](/images/CETI-SPA.jpg)](https://www.eventbrite.com/cc/ceti-spa-spring-break-adventures-sound-spa-2023-1864979)
+
+^ I'm so honored to be co-teaching + performing in this *fantastic* week of music technology explorations, organized by CETI, Synth Library, & whatever Space:
+
+- March 29: [Hardware and Software Synthesis: Shaping Sound for Total Beginners](https://www.eventbrite.com/e/hardware-and-software-synthesis-shaping-sound-for-total-beginners-tickets-572036325047?aff=odcleoeventsincollection)
+- April 1 + 2: [habitus: new habits of coding and musical practice through experimentation, research, and the exercise of daydreams](https://llllllll.co/t/pdx-norns-habitus-workshop-april-1-2-2023/61318)
+- April 1: [Deep Tissue: performance w/ Francisco Botello, Zack Scholl, Jonathan Snyder](https://www.eventbrite.com/e/performance-deep-tissue-tickets-576620025017?aff=odcleoeventsincollection)
+
 # sounds
 
-[beloved.wtf](/beloved) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music ([most recent episode](/beloved/230219.html))
+[beloved.wtf](/beloved) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music ([most recent episode](/beloved/230319.html))
 
 [mirrored heart](https://dndrks.bandcamp.com/album/mirrored-heart) (2022 and ongoing): improvisations with *hills*, a script for [norns](https://monome.org/docs/norns)  
 [QUALIA](https://cachedmedia.bandcamp.com/album/qualia) (2022): collaborative compositions with Zander Raymond, recorded at monome in rural NY  

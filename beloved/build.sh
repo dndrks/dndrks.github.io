@@ -21,6 +21,11 @@ for file in $list ; do
     font="#fafada"
     hover="#c3bdf9"
     dot="#e090ff"
+  elif [ $file == "230319" ]; then
+    bkg="#9F5240"
+    font="#cedbf2"
+    hover="#DDDAD2"
+    dot="#D9C376"
   fi
   target=${file}.html
   cat head.htm_ > ${target}
