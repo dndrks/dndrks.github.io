@@ -1,10 +1,9 @@
-[![](/images/CETI-SPA.jpg)](https://www.eventbrite.com/cc/ceti-spa-spring-break-adventures-sound-spa-2023-1864979)
+# UPCOMING CLASS
 
-^ I'm so honored to be co-teaching + performing in this *fantastic* week of music technology explorations, organized by CETI, Synth Library, & whatever Space:
+![](/images/basic-synthesis.jpeg)
+[Basic Synthesis](https://luckdragon.space/event/synthesis.html): Friday April 14, 6-8:30pm at Luck Dragon (100 Main St, Delhi, NY 13753)  
 
-- March 29: [Hardware and Software Synthesis: Shaping Sound for Total Beginners](https://www.eventbrite.com/e/hardware-and-software-synthesis-shaping-sound-for-total-beginners-tickets-572036325047?aff=odcleoeventsincollection)
-- April 1 + 2: [habitus: new habits of coding and musical practice through experimentation, research, and the exercise of daydreams](https://llllllll.co/t/pdx-norns-habitus-workshop-april-1-2-2023/61318)
-- April 1: [Deep Tissue: performance w/ Francisco Botello, Zack Scholl, Jonathan Snyder](https://www.eventbrite.com/e/performance-deep-tissue-tickets-576620025017?aff=odcleoeventsincollection)
+This class is designed for *total beginners*! Come learn the fundamentals of making and shaping sound through VCV Rack, a free software modular synthesizer. We’ll cover the basics of synthesizers, experiment with combining simple sounds to create compelling tones, and become familiar with the program’s interface for continuing the adventures at home! Perfect for those curious about modular synthesis, digital music making, and sound design.
 
 # sounds
 
@@ -18,6 +17,9 @@
 [less concepts](https://dndrks.bandcamp.com/album/less-concepts) (2018): experiments with cellular automata, modular synths, and Max programming
 
 # videos
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rWn1BL708l0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+^^ [deep tissue](https://llllllll.co/t/61496/) at [CETI](https://ceti.institute) (March 31 2023): live performance alongside [Francisco Botello](http://franciscobotello.com), [Jonathan Snyder](https://www.instagram.com/jaseknighter/), and [Zack Scholl](https://schollz.com)  
 
 [live @ luck dragon w/ jonathan snyder (220924)](https://youtu.be/yi5bkzskNHU)  
 [cached season 2 showcase 2022](https://youtu.be/rz2OikX6flE)  
@@ -55,5 +57,6 @@ writing for [Cycling '74](https://cycling74.com):
 
 ### recent live shows
 
+**Mar 31 2023** - [deep tissue](https://llllllll.co/t/61496/) at [CETI](https://ceti.institute) w/ Francisco Botello, Jonathan Snyder, and Zack Scholl  
 **Feb 11 2023** - [Glockabelle's LoveFest](/images/bushel-230211.jpeg) at [BUSHEL](https://www.bushelcollective.org) w/ Yuka C. Honda, Glockabelle & [DJ] Marcus  
 **Sept 24 2022** - [w/ Jonathan Snyder](https://luckdragon.space/event/220924-jonathan-snyder-dan-derks.html) at [luck dragon](https://luckdragon.space)
