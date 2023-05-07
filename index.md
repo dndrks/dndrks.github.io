@@ -10,7 +10,8 @@
 [less concepts](https://dndrks.bandcamp.com/album/less-concepts) (2018): experiments with cellular automata, modular synths, and Max programming
 
 # videos
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rWn1BL708l0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube-nocookie.com/embed/rWn1BL708l0' frameborder='0' allowfullscreen></iframe></div>
 
 ^^ [deep tissue](https://llllllll.co/t/61496/) at [CETI](https://ceti.institute) (March 31 2023): live performance alongside [Francisco Botello](http://franciscobotello.com), [Jonathan Snyder](https://www.instagram.com/jaseknighter/), and [Zack Scholl](https://schollz.com)  
 
