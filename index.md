@@ -1,10 +1,3 @@
-# UPCOMING CLASS
-
-![](/images/basic-synthesis.jpeg)
-[Basic Synthesis](https://luckdragon.space/event/synthesis.html): Friday April 14, 6-8:30pm at Luck Dragon (100 Main St, Delhi, NY 13753)  
-
-This class is designed for *total beginners*! Come learn the fundamentals of making and shaping sound through VCV Rack, a free software modular synthesizer. We’ll cover the basics of synthesizers, experiment with combining simple sounds to create compelling tones, and become familiar with the program’s interface for continuing the adventures at home! Perfect for those curious about modular synthesis, digital music making, and sound design.
-
 # sounds
 
 [beloved.wtf](/beloved) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music ([most recent episode](/beloved/230319.html))
@@ -49,14 +42,25 @@ writing for [Cycling '74](https://cycling74.com):
 [less concepts](https://llllllll.co/t/less-concepts/54178): 1d cellular automata sequencer (norns)  
 [less concepts](https://maxforlive.com/library/device/6167/less-concepts): 1d cellular automata sequencer ([max for live](https://www.ableton.com/en/live/max-for-live/))
 
+# events
+
+### classes
+
+**Apr 14 2023** - [Basic Synthesis](https://luckdragon.space/event/synthesis.html) @ [luck dragon](https://luckdragon.space)  
+**Apr 1 + 2 2023** - [habitus](https://www.eventbrite.com/cc/ceti-spa-spring-break-adventures-sound-spa-2023-1864979) @ [CETI](https://ceti.institute)  
+**Mar 29 2023** - [Hardware and Software Synthesis: Shaping Sound for Total Beginners](https://www.eventbrite.com/cc/ceti-spa-spring-break-adventures-sound-spa-2023-1864979) @ [CETI](https://ceti.institute)  
+**Nov 18 + Dec 2 2022** - [Coding Musical Patterns w/ Tidal Cycles](https://luckdragon.space/event/221118-tidalcycles.html) @ [luck dragon](https://luckdragon.space)    
+**Oct 11 2022** - [Basic Synthesis](https://luckdragon.space/event/synthesis.html) @ [luck dragon](https://luckdragon.space)    
+**Sept 24 + 25 2022** - [habitus](https://luckdragon.space/event/norns-habitus.html) @ [luck dragon](https://luckdragon.space)  
+
+### performances
+
+**Mar 31 2023** - [deep tissue](https://llllllll.co/t/61496/) @ [CETI](https://ceti.institute) w/ Francisco Botello, Jonathan Snyder, and Zack Scholl  
+**Feb 11 2023** - [Glockabelle's LoveFest](/images/bushel-230211.jpeg) @ [BUSHEL](https://www.bushelcollective.org) w/ Yuka C. Honda, Glockabelle & [DJ] Marcus  
+**Sept 24 2022** - [w/ Jonathan Snyder](https://luckdragon.space/event/220924-jonathan-snyder-dan-derks.html) @ [luck dragon](https://luckdragon.space)  
+
 # more
 
 [a fundraiser for my half-sister](/chelsea.html)  
 [images](/images)  
 [open tabs](/tabs)  
-
-### recent live shows
-
-**Mar 31 2023** - [deep tissue](https://llllllll.co/t/61496/) at [CETI](https://ceti.institute) w/ Francisco Botello, Jonathan Snyder, and Zack Scholl  
-**Feb 11 2023** - [Glockabelle's LoveFest](/images/bushel-230211.jpeg) at [BUSHEL](https://www.bushelcollective.org) w/ Yuka C. Honda, Glockabelle & [DJ] Marcus  
-**Sept 24 2022** - [w/ Jonathan Snyder](https://luckdragon.space/event/220924-jonathan-snyder-dan-derks.html) at [luck dragon](https://luckdragon.space)
