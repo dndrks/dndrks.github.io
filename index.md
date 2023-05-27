@@ -1,6 +1,8 @@
+[![](/images/beloved_230521.png)](/beloved/230521.html)
+
 # sounds
 
-[beloved.wtf](/beloved) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music ([most recent episode](/beloved/230416.html))
+[beloved.wtf](/beloved) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music ([most recent episode](/beloved/230521.html))
 
 [mirrored heart](https://dndrks.bandcamp.com/album/mirrored-heart) (2022 and ongoing): improvisations with *hills*, a script for [norns](https://monome.org/docs/norns)  
 [QUALIA](https://cachedmedia.bandcamp.com/album/qualia) (2022): collaborative compositions with Zander Raymond, recorded at monome in rural NY  
