@@ -20,6 +20,6 @@ When I learned that he’d passed, I sat with this question. I sat with the spac
 
 And the hardest part for me, and maybe for some of you, is that the acceptance of this *infinity* and the acceptance of what is *finite* are so inextricably linked. Pain continues to rise through that negotiation.
 
-And while this is difficult, it also feels a bit like his characteristic pushback — some friction to help us refine and double-down. To continue learning in this life, and so we’re ready to compare notes with him in the next.
+And while this is difficult, it also feels a bit like his characteristic pushback — some friction to help us refine and double-down. To continue learning in this life, so we’re ready to compare notes with him in the next.
 
 ![](images/bruno_lukas.jpeg)
