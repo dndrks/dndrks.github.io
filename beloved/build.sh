@@ -35,7 +35,11 @@ for file in $list ; do
     bkg="#316DB1"
     font="#F5F953"
     hover="#FEFEFE"
-    # #D33747
+    dot="#F0B7BF"
+  elif [ $file == "230618" ]; then
+    bkg="#6C7871"
+    font="#D1C4A9"
+    hover="#FEFEFE"
     dot="#F0B7BF"
   fi
   target=${file}.html
