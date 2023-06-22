@@ -1,4 +1,4 @@
-[![](/images/beloved_230521.png)](/beloved/230521.html)
+[![](/images/beloved_230618.png)](/beloved/230618.html)
 
 # sounds
 
@@ -58,6 +58,7 @@ writing for [Cycling '74](https://cycling74.com):
 
 ### performances
 
+**Jun 18 2023** - [Ramona's Reading Den Series w/ Cisco Bradley](https://diamondhollowbooks.com/events) in support of his book *The Williamsburg Avant-Garde: Experimental Music and Sound on the Brooklyn Waterfront* @ Diamond Hollow Books  
 **Mar 31 2023** - [deep tissue](https://llllllll.co/t/61496/) @ [CETI](https://ceti.institute) w/ Francisco Botello, Jonathan Snyder, and Zack Scholl  
 **Feb 11 2023** - [Glockabelle's LoveFest](/images/bushel-230211.jpeg) @ [BUSHEL](https://www.bushelcollective.org) w/ Yuka C. Honda, Glockabelle & [DJ] Marcus  
 **Sept 24 2022** - [w/ Jonathan Snyder](https://luckdragon.space/event/220924-jonathan-snyder-dan-derks.html) @ [luck dragon](https://luckdragon.space)  
