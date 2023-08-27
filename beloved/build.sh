@@ -41,6 +41,16 @@ for file in $list ; do
     font="#D1C4A9"
     hover="#FEFEFE"
     dot="#F0B7BF"
+  elif [ $file == "230715" ]; then
+    bkg="#060606"
+    font="#41935F"
+    hover="#B841BC"
+    dot="#FDFDFD"
+  elif [ $file == "230820" ]; then
+    bkg="#C7D6E4"
+    font="#3F5FA3"
+    hover="#BB6A4B"
+    dot="#AC5732"
   fi
   target=${file}.html
   cat head.htm_ > ${target}

@@ -1,8 +1,8 @@
-[![](/images/beloved_230618.png)](/beloved/230618.html)
+[![](/images/beloved_230820.png)](/beloved/230820.html)
 
 # sounds
 
-[beloved.wtf](/beloved) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music ([most recent episode](/beloved/230521.html))
+[beloved.wtf](/beloved) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music ([most recent episode](/beloved/230820.html))
 
 [mirrored heart](https://dndrks.bandcamp.com/album/mirrored-heart) (2022 and ongoing): improvisations with *hills*, a script for [norns](https://monome.org/docs/norns)  
 [QUALIA](https://cachedmedia.bandcamp.com/album/qualia) (2022): collaborative compositions with Zander Raymond, recorded at monome in rural NY  
@@ -49,6 +49,9 @@ writing for [Cycling '74](https://cycling74.com):
 
 ### classes
 
+**Aug 24 2023** - [Basic Synthesis](https://luckdragon.space/event/synthesis.html) @ [luck dragon](https://luckdragon.space)  
+**Aug 5 + 6 2023** - [habitus](https://infinitedigits.co/tinker/habitus/) @ [Funkhaus Berlin](https://www.funkhaus-berlin.net/), in partnership with [Urbiks Music](https://urbiks-music.com/)  
+**Aug 3 + 4 2023** - [habitus](https://infinitedigits.co/tinker/habitus/) @ [Funkhaus Berlin](https://www.funkhaus-berlin.net/), in partnership with [Urbiks Music](https://urbiks-music.com/)  
 **Apr 14 2023** - [Basic Synthesis](https://luckdragon.space/event/synthesis.html) @ [luck dragon](https://luckdragon.space)  
 **Apr 1 + 2 2023** - [habitus](https://www.eventbrite.com/cc/ceti-spa-spring-break-adventures-sound-spa-2023-1864979) @ [CETI](https://ceti.institute)  
 **Mar 29 2023** - [Hardware and Software Synthesis: Shaping Sound for Total Beginners](https://www.eventbrite.com/cc/ceti-spa-spring-break-adventures-sound-spa-2023-1864979) @ [CETI](https://ceti.institute)  
@@ -58,6 +61,8 @@ writing for [Cycling '74](https://cycling74.com):
 
 ### performances
 
+**Aug 12 + 13 2023** - [opening for McQueen Adams @ Studio9](https://studio9porches.com/performance/studio9-presents-mcqueen-adams/)  
+**Aug 3 2023** - [monome meetup @ Patch Point (Berlin, Germany)](https://llllllll.co/t/monome-meetups-performances-patch-point-2-3-aug-2023-berlin-de/63317) w/ [Cengiz Arslanpay](https://cengizarslanpay.bandcamp.com/)  
 **Jun 18 2023** - [Ramona's Reading Den Series w/ Cisco Bradley](https://diamondhollowbooks.com/events) in support of his book *The Williamsburg Avant-Garde: Experimental Music and Sound on the Brooklyn Waterfront* @ Diamond Hollow Books  
 **Mar 31 2023** - [deep tissue](https://llllllll.co/t/61496/) @ [CETI](https://ceti.institute) w/ Francisco Botello, Jonathan Snyder, and Zack Scholl  
 **Feb 11 2023** - [Glockabelle's LoveFest](/images/bushel-230211.jpeg) @ [BUSHEL](https://www.bushelcollective.org) w/ Yuka C. Honda, Glockabelle & [DJ] Marcus  
