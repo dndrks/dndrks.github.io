@@ -1,0 +1,169 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>dndrks</title>
+    <meta name="keywords" content="monome, derks">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    @font-face {
+      font-family: 'Roboto Mono'; font-style: normal; font-weight: 400;
+      src: local(''),
+        url('../include/roboto-mono-v21-latin-regular.woff2') format('woff2'),
+        url('../include/roboto-mono-v21-latin-regular.woff') format('woff'); }
+    body {background-color:#d8d8d8; max-width:800px; color:#000000; 
+      font-family: 'Roboto Mono', monospace; font-size: 0.96em;}
+    pre {font-size: 1.3em; color:#222;}
+    h1 {font-weight:bold; font-size: 1.6em; margin-top:1.5em;}
+    hr {margin-top: 4em; border: none; background-color: #555; color: #555; height: 1px;}
+    a {color:#000000;}
+    a:hover {color:#EC6F2B;}
+    img {margin-top: -0.5em; max-width:100%;}
+    input {font-family: inherit;}
+    code {
+      background: #ffeff0;
+      word-wrap: break-word;
+      box-decoration-break: clone;
+      padding: .1rem .3rem .2rem;
+      border-radius: .2rem; 
+    }
+</style>
+</head>
+<body>
+    <div style="margin:20px">
+<br/>
+<br/><p><a href="/images/c-base.jpeg"><img src="/images/c-base.jpeg" alt="flyer for c-base lines gathering" width="500"/></a></p>
+<p><em>As a supplement to the <a href="https://llllllll.co/t/berlin-norns-habitus-workshop-august-3-4-5-6-2023/62286">Berlin norns / habitus workshops</a> (Aug 3-4 + 5-6 2023), Hans Jacobsen (<a href="https://linktr.ee/duellingants">duelling ants</a>), Artem Popov (<a href="https://eigenform.net/">Eigenform</a>), Zack Scholl (<a href="https://infinitedigits.co/">infinite digits</a>), Jonathan Snyder (<a href="https://www.instagram.com/jaseknighter/">jaseknighter</a>) and I hosted a meetup at <a href="https://c-base.org/">c-base</a> on August 5 2023. Despite its rich mythology as a spacecraft whose attempt to travel through space was thwarted by a miscalculation which led to a significant jump back in time, c-base is regarded as one of the first hackerspaces (established in 1995).</em></p>
+<p><em>As a result of the remarkable generosity of its members, and Artem specifically, we were able to host a slew of 'alien' events: a <a href="https://llllllll.co">lines community</a> meetup, performances from Hans / Zack / Artem, and a live episode of SOUND + PROCESS (a podcast I produce about members of the lines community).</em></p>
+<p><em>Though the sound was great in the space, I was unable to get my recorded audio clean enough for general release, so I've opted to share our conversation in text form here. This has proven to be a useful mechanism, though, as it allows for in-line annotations and an opportunity to share some photos from the event.</em></p>
+<p><em>Much of the week's events, let alone the night at c-base, wouldn't have been possible without Artem's seemingly-bottomless hospitality and companionship. He made the visit so warm + memorable for each of us.</em></p>
+<h2>SOUND + PROCESS: Live in Berlin w/ Hans Jacobsen, Artem Popov, Zack Scholl and Jonathan Snyder</h2>
+<p><strong>Dan</strong><br />
+Hello! Thank you for being here -- we are at <a href="https://c-base.org/">c-base</a>, which is <em>incredible</em>. Tonight, I am joined by Hans Jacobsen (<a href="https://linktr.ee/duellingants">duelling ants</a>), Artem Popov (<a href="https://eigenform.net/">Eigenform</a>), Zack Scholl (<a href="https://infinitedigits.co/">infinite digits</a>), and Jonathan Snyder (<a href="https://www.instagram.com/jaseknighter/">jaseknighter</a>). I'm Dan Derks, and this is a live episode of Sound and Process. Thank you for being here.</p>
+<p>These are four folks who have <em>very</em> compelling back-catalogs of work. Unpacking those full catalogs would take a while, though -- so to begin, I'm curious to learn a bit about a project that each of you has going on currently that you're excited about.</p>
+<p><strong>Artem</strong><br />
+My project now is the modernization of my sequencer, which I use for live performances, and not so much for production. I hope I will be able to play some music with it today. But that's my current project.</p>
+<p><em>note: Artem played an hour-long live techno set following this conversation, using his custom-built sequencer. It's a highly impressive tool, written in Python (and using custom libraries like <a href="https://github.com/artfwo/aalink">aalink</a>), which allows Artem to seamlessly transition between time signatures and queue up radical timbral changes. It was like watching Sulu helm the USS Enterprise -- just, masterful.</em></p>
+<p><a href="/images/hq/c-base_artem.jpeg"><img src="/images/c-base_artem.jpeg" alt="Artem Popov performing at c-base" width="500"/></a></p>
+<p><strong>Hans</strong><br />
+I try to always keep an active project in the <em>duelling ants</em> stuff that I'm doing, though not for too long -- I like to keep them open for six months or so, just so I can keep an interest in what I'm doing. I'm in the middle of one of those projects now, and they usually end up in some sort of album release. I have something I made with a really talented guy from South Korea that's coming out on his label -- actually, it's the first release on his label that he's starting up.</p>
+<p><strong>Jonathan</strong><br />
+I am living in Portland, Oregon and one of the things I do is I volunteer at the <a href="https://ceti.institute/">CETI Institute</a>, which is located at Portland State University. It's the Center for Emerging Technology and it's another makerspace. I'm working with an environmental engineer and her research assistant on taking data that's produced by algorithms which model the CAM (crassulacean acid metabolism) respiration of plants. The algorithms to model these plant respirations are chaotic systems, so we're taking these models about how plants breathe and figuring out ways to understand them by turning them into sound.</p>
+<p><strong>Zack</strong><br />
+I like to think a lot about the interface between your brain and a musical instrument. It's usually a physical interface, but it can be electronic or it can be a physical instrument. Right now I'm particularly interested [the idea that], normally, you move your hands across the keyboard to play different keys -- I'm interested in making an interface where the keyboard moves <em>under your hands</em>. And you can press the same key, but you can get different things emerging from that. <em>How</em> the keyboard moves underneath you changes, so you have to think in a dynamic space there. But, yeah, things can get weird.</p>
+<p>[laughter]</p>
+<p><strong>Dan</strong><br />
+Part of the magic of the work that y'all engage in (on a broader level and not just these specific projects) is that you all share results in ways that ignite others. Whether that's [Artem] inside of the Norns codebase, making the most in-demand features accessible and available to folks so that they can integrate, these objects within their larger art-making processes. Or from a scripting standpoint [like Jonathan and Zack], providing vessels for people to explore new ideas in sound and creation. And then also [Hans], releasing beautiful expressions of artifacts that are clearly very soulful and well-loved parts of yourself that you cut out to give to others.</p>
+<p>So I would love to learn a little bit more about which of your projects has connected you most with other people, or brought you in close contact with a fellow traveler who is clearly interested in the same road that any of you have been on.</p>
+<p><strong>Zack</strong><br />
+There's a project on the norns platform called <a href="https://llllllll.co/t/dronecaster/34737">Dronecaster</a>. It was made by <a href="https://github.com/tyleretters">Tyler Etters</a> and <a href="https://github.com/ryanlaws">Ryan Laws</a>, but has been kind of a bastion for other people producing drones and putting things in on it, like Naomi (<a href="https://github.com/sixolet">Sixolet</a>), <a href="https://github.com/catfact">Ezra Buchla</a>, myself, and someone here probably. But it <em>connects</em> me to all these people, because it's basically a thing where you can go and play someone's drone that they've made and spent <em>time</em> making. And the drones are just very simple -- it's just like a frequency and amplitude, but what's within them is very complex, and it's a reflection of the person that created it. To me, that's all music. It's just the expression of the self. And there, it's very refined, and it just connects you with that person instantly. So one of my favorite things to do is to make drones and put them there, and then to listen to other people's. So if people are getting interested in <a href="https://supercollider.github.io/">SuperCollider</a>, <em>go for the drones</em>.</p>
+<p>[laughter]</p>
+<p><strong>Jonathan</strong><br />
+The project I'm most excited about is kind of the reason we're here -- the <a href="https://llllllll.co/t/berlin-norns-habitus-workshop-august-3-4-5-6-2023/62286"><em>habitus</em> workshop</a> that we did over at Funkhaus on Thursday, Friday, and again today. Today was the second iteration of it, and we'll finish up tomorrow. <em>habitus</em> is two days of learning about making sound and music on the norns platform, programming, field recording and daydreaming.</p>
+<p>What I think is, for me, really special about it (and what I really <em>want</em> it to be), is a way to create comfort <em>using</em> technology. I think we are surrounded by [technology] -- we're abused by it, and monetized by it, and it's overwhelming and kind of depressing and upsetting. And there are not many platforms for people to engage with technology in a way that they can understand it and create something with it, without having a huge amount of technical background.</p>
+<p>So the hope for this workshop is to create comfort, and literacy, and the sense of control and ability to make things that are interesting and maybe beautiful. And to get that sense of <em>creation</em> out of something that maybe you don't feel very comfortable with. Lowering the barrier of technology is really important, and critical, and I'm very happy to see people come to these workshops not necessarily knowing a whole lot about programming, and emerge from it feeling like &quot;Oh, hey, I could make something really cool!&quot;. That excites me a whole lot.</p>
+<p><strong>Artem</strong><br />
+Some of my software projects have been really connective -- not necessarily just norns, but also projects I've worked on over the past years. All are different and fun in many ways -- how you build connections with people with code that you shared, that you use together, or maybe hack on together.</p>
+<p><strong>Dan</strong><br />
+I just want to interject that personally, Artem, your code reviews have been so instructive to me -- whether it's for the <a href="https://github.com/monome/grid-studies-python">monome Python studies</a> or the norns codebase. You're very generous and I want to call out how much I've learned from you not even just pointing out the exact solution, but just pointing out questions about the solution I arrived at. They're very instructive and quite informative, and I'm appreciative of you.</p>
+<p><strong>Artem</strong><br />
+Thanks, Dan.</p>
+<p><strong>Hans</strong><br />
+Slightly different from the others, who are developing platforms for others to use, I am one of the people <em>using</em> [these tools]. So while my goal is not to make a script, when I got norns I decided to have a transparent learning process. And the response I got from posting small sonic sketches on Instagram and lines surprised me, and the effects of that sharing process, mainly from working with <a href="https://www.youtube.com/playlist?app=desktop&amp;list=PL8mWvgXwZgijAB2UX_FL9JVdcHSrOp53v">Cheat Codes</a>. That was my starting point into norns -- and what I didn't quite see before, was that I learned through <em>sharing</em>. I connected with a lot of folks, I got a lot of response to the stuff that I did, and from there, I think it just snowballed. And also the way that I want to share stuff now comes from that.</p>
+<p><strong>Dan</strong><br />
+I'm going to piggy-back right off of that -- can you describe maybe the <em>earliest</em> moments that you remember being enchanted by the way that you work now? Like, what was the kernel for the processes that you engage with within sound, what is the thread you've been pulling at?</p>
+<p><strong>Hans</strong><br />
+I've been in music since I was around 16 years old. The one thing I discovered that changed my approach to music was to sort of <em>feel</em> music more than try to <em>control</em> it.</p>
+<p>And so that led me to working asynchronously and layering without really having stuff quantized or even recorded at the same time. What I do now is usually recorded in separate, unrelated experiments. And I found that I enjoy that way of just putting stuff into a bulk of sound and trying to find something, some combination that I didn't initially think I would find. It <em>becomes</em> something from that juxtaposed approach.</p>
+<p>And then, when I got the grid was [another] key point for me because...I <em>might</em> have discovered that [way of working] with other kinds of gear, I guess, but the thing with norns and grid is that I have, on one hand, the stuff that I want to do with audio -- mangle and cut up, sort of pitch up and down, these kind of things. And then I have the sounds also <em>laid out before me</em> -- I can <em>touch</em> it. I sometimes feel like I have a piece of fabric in my hand and I can just <em>pull</em> the sound out of it. Stretch it and squeeze it. It's so tactile, like an acoustic instrument.</p>
+<iframe src="https://player.vimeo.com/video/870400370?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="800" height="450" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="cbase-hans"></iframe>
+<p><strong>Dan</strong><br />
+Artem, I'm curious what were the earliest experiences that you remember where you were like, &quot;Oh, I want to make music like <em>this</em>.&quot;</p>
+<p><strong>Artem</strong><br />
+That's a good question. It actually happened when I started mixing different time signatures together. And that sound, that's mind-blowing in a way, and a cool direction to explore, which I'm still exploring.</p>
+<p>Rhythms, like tonality, they also have this law where you can shift away from four-on-the-floor, and then you go <em>back</em>. And it's a bit like with melody -- you also go away from the note, and you go back to it, so you have this tension and release. And you can do the same with the <em>rhythm</em>.</p>
+<p>That experience is an interesting direction to explore artistically.</p>
+<iframe src="https://player.vimeo.com/video/870399091?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="800" height="450" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="artem-cbase"></iframe>
+<p><strong>Jonathan</strong><br />
+What most excited me, that sort of made me feel like I was doing something compelling, was the first script that I released (<a href="https://llllllll.co/t/flora/40261/">Flora</a>), which also about plants -- making shapes out of plants and figuring out how to create music derived from the forms of the plant shapes that I was generating. And there was a compelling amount of feedback from the community that was <em>wonderful</em>, because I had no idea what I was doing! Putting something out in the world that I wasn't quite sure how any of it worked -- I'm still not sure how a lot of it works -- and getting positive feedback was like, &quot;Oh, cool!&quot;. I wish everything I did was like that.</p>
+<p>[laughter]</p>
+<p>But even more compelling was, since I'm not a professional programmer and I kind of fumble around, having people like the folks here who have built tools and snippets of code that I was able to leverage and use and sometimes maybe understand in order to create something new. That was pretty amazing. Emotionally amazing, but also amazing in the sense that it blurs the line between individual authorship and maybe some new kind of authorship, a community-based authorship. You see it in open-source software, where <em>who the author is</em> is not really relevant.</p>
+<p>I really liked the idea of applying that to the process of making tools. And I think it also applies to the music that's made once those tools are created. These questions emerge when you're using the tools -- who is the author of the music that's created? And in some cases, yes, there's this person playing who we call musician who created a piece of music, but then there's also everything that went into the tool and the community <em>behind</em> the making of the tool, which has <em>also</em> authored that composition. And while I love the concept of individuals -- I think that is a really important concept in artistic life, political life, in many ways -- having a space where there is some <em>fuzziness</em> as to where that point of authorship resides is really interesting and compelling, and opens up some interesting possibilities in how we think about ourselves and engage with each other.</p>
+<p><strong>Zack</strong><br />
+Before I was playing with norns, I would do stuff with the <a href="https://www.raspberrypi.org/">Raspberry Pi's</a>. And one of the first things I did, I played jazz piano and I <a href="https://schollz.com/raspberrypi/ai-bot/">tried to make an AI</a> -- before Chat GPT (in 2014) -- that would memorize my playing. And then I would play, and I could do call and response with this AI. I got it working a little bit and it was <em>so</em> fun. And this was the this first time I realized you can <em>augment</em> your musical practice with something electronic, something digital. I'd never done it before and it, just, blew my mind. That was a process I had started from scratch, but now with norns I don't have to do things from scratch, and it's <em>great</em>. Just, most of the stuff is already there.</p>
+<p><strong>Dan</strong><br />
+You mentioned this AI project as your first early attempts at doing music like this, but this has led to a long lineage of free and open-source software that you've released to people. You have like, what, at least a hundred repositories -</p>
+<p><strong>Zack</strong><br />
+A thousand.</p>
+<p><strong>Dan</strong><br />
+There we go, perfect, an <em>amazing</em> correction. You just <em>10x'd</em> that number! A hundred was impressive, but the reality is <em>10x</em> impressive. Amazing!</p>
+<p>[laughter]</p>
+<p><strong>Zack</strong><br />
+Most of them are bad though...</p>
+<p><strong>Dan</strong><br />
+But you have such a <em>prolific</em> and <em>open</em> sharing practice. What are some of the projects that you've had to pause or abandoned?</p>
+<p><strong>Zack</strong><br />
+Oh, this is a good question. I wrote down my answers, because I have so many projects that I've paused and abandoned. Some are kind of musical, like ambisonics. I tried to make physics-based things. Stochastic melody generation. Adding effects in real time, but reversing them and adding them before when they should occur -- so, breaking spacetime parity, which doesn't really go well.</p>
+<p>[laughter]</p>
+<p>I do think it's neat to mention that I do have a thousand repositories, but maybe thirty or fifty of them are actually useful to me or other people -- and 900 of them are, like, <em>nothing</em>. They're things I tried and they didn't work and I abandoned. And for me, that's <em>success</em>. For me, success is just trying many, many, many, many things. And letting many, many, many, <em>many</em> things fall away and just weigh them as they go. It's fine. And treasure the ones that stay.</p>
+<iframe src="https://player.vimeo.com/video/870402063?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="800" height="450" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="zack-cbase"></iframe>
+<p><strong>Jonathan</strong><br />
+I make very very <em>slowly</em>. You may have heard of the slow food movement that started in Italy? I do that with code. Except it's not so tasty, obviously. So there's not so much that I've abandoned because there's not so much that I've <em>started</em>. And some things that I've completed, I really wish I had abandoned earlier.</p>
+<p>[laughter]</p>
+<p>And a lot of the reason why I wish I had abandoned them was because I was trying to do <em>too much</em>. There are really interesting lessons that I'm still trying to learn about how to set a scope and an intention for something that gets created, and maybe stick to it sometimes! Which isn't easy because you get really excited like, &quot;Oh, I can do this and that and that!&quot;. And then you have a bit of a disaster on your hands.</p>
+<p>So that's challenging, but that's the thing I'm trying to learn -- setting the scope and sticking to it, though maybe not <em>rigorously</em>. Just really allowing an idea to be the <em>thing</em> and trusting that idea, and not worrying about &quot;Oh, is this enough?&quot;.</p>
+<p><strong>Artem</strong><br />
+I'm basically hoping to finish some tracks, beyond a couple of bars of looping material. I guess that's what many people struggle with. I can't even name a single idea, there are just too many of them. So, I guess that's a boring answer...</p>
+<p>[laughter]</p>
+<p><strong>Dan</strong><br />
+Do these experiments reach into genres or processes that you haven't currently mastered, or are they iterations of something that you know very well but you're just not satisfied with the result?</p>
+<p><strong>Artem</strong><br />
+A bit of <em>both</em>, I guess.  Sometimes, I'm just not completely satisfied with the result and abandon it, and sometimes I just don't know how to proceed. But yeah, I guess there is a bit of dissatisfaction -- it doesn't sound like you want it to, but you are not sure <em>how</em> it is actually supposed to sound. That happens with electronic music -- we're exploring some unexplored territories and end up lost.</p>
+<p><strong>Hans</strong><br />
+I guess I have a lot of things that I want to explore, and <em>time</em> is obviously the constraint. This is relevant to a lot of people. For me, it's the family which takes up most of my time, but that's the way I <em>want</em> it to be so that's no complaint at all. But if I start something, if I have an inspiration or I want to follow up something or I wanna learn something -- I can think of it, think about it, have it in my mind for like a week plan stuff that I want to do. Then when I sit down for the couple of hours a week that I have for making music, I'm so easily distracted that I just make <em>music</em>, you know? So I get out of the original idea, which is kind of fun because it gets me to some <em>starting point</em>. And then I do something [else] and I can get stuff out of it, but I forgot the actual learning -- like it didn't bring me further on learning modular [synthesis]. So a lot of stuff is abandoned in that way, I guess.</p>
+<p><strong>Jonathan</strong><br />
+But you enjoy yourself along the way.</p>
+<p><strong>Hans</strong><br />
+Yeah, yeah, yeah, I do. I'm not stressing those other things, I guess. I can take my time with modular and it's okay -- it's actually kind of nice to find the way that <em>I</em> want to use modular instead of making it define <em>me</em>.</p>
+<p><a href="/images/hq/c-base_hans.jpeg"><img src="/images/c-base_hans.jpeg" alt="Hans Jacobsen preparing for his live set at c-base" width="500"/></a></p>
+<p><strong>Dan</strong><br />
+When it comes to each of your experiences navigating the gulf between having a compelling idea and being satisfied with its execution -- you all obviously <em>persist</em>. You <em>continue</em>, with all the stumbling blocks that you might run into and all of the dissatisfaction in final results and things like that, and there are always bad days. What contributes to or impacts (both positively or negatively) that persistence?</p>
+<p><strong>Hans</strong><br />
+It's kind of the same answer in a way -- it's the <em>distraction</em> that takes me away from the original kind of thought. And yes, it's negative in some sense that I lose sort of the learning or the, &quot;What am I trying to do here?&quot;, right? I lose that, but I get <em>something else</em>. And I don't think I necessarily get that from starting off at some other point, right? It always leads me to something and that's always positive.</p>
+<p><strong>Artem</strong><br />
+I have sort of the same answer. Distractions are always...distracting you.</p>
+<p>[laughter]</p>
+<p>Distracting you from trying to think on a solution to a problem -- but somehow <em>the idea</em> itself, or the idea of the result you're going to build, it's somehow enough? Enough for me to keep <em>me</em> going, most of the time.</p>
+<p><strong>Dan</strong><br />
+Right, it sustains itself by your desire to see it realized.</p>
+<p><strong>Artem</strong><br />
+Yes.</p>
+<p><strong>Jonathan</strong><br />
+Three ideas come to mind.</p>
+<p>In the early 80s, maybe starting in the 70s, there were these computer games <em>before</em> there were graphics cards. And so these games were text-based. One of the early ones was <em><a href="https://en.wikipedia.org/wiki/Zork">Zork</a></em>. So you played this game and you had to <em>type</em>, and it seemed like the game was really smart because it would respond -- you'd say <code>pick up the bag</code>, and it would tell you something about the bag. And you had to move around in the space, so most of the time I would play this game would be me saying, <code>go east</code>. And it would say, <code>You bumped into a wall.</code> And I'd say <code>go east</code> ... and you'd bump again into the wall. And I figured like, if I'd say it enough times...</p>
+<p>[laughter]</p>
+<p>But I just kept bumping into the wall! And that's a <em>lot</em> of my experience learning and programming, is lots of bumping into walls and at a certain point figuring out maybe I should try a different direction.</p>
+<p>[laughter]</p>
+<p>And there's a practicality to that, but I'm really interested in <em>how do you learn</em>? How do you <em>learn</em> how to learn? There are lots of things I <em>want</em> to know, and a lot of those things I have a really hard time learning. So it's like, how do you navigate your way towards a goal which is not just &quot;Oh, I'm going to absorb this&quot; but given <em>me</em> and <em>how</em> I learn, how can I start to grasp it in a way that feels like I get it and I can build on it?</p>
+<p>And usually it's having to find the smallest possible explanation of the thing I'm trying to learn. Because oftentimes, when you try to learn something, you see this very complex long explanation and there's <em>no</em> way you're going to understand it. How do you find those building blocks and then be able to build upon them, piece by piece?</p>
+<p><strong>Zack</strong><br />
+I think the biggest thing that impacts my execution of my ideas is actually kind of silly -- but it's the number of hours that I sleep, because I find that most of my solutions come when I <em>dream</em>. And I try to remember my dreams so I can <em>use</em> those solutions. Once a question is posed I just kind of forget it, and then don't worry about it -- I let my unconscious kind of figure it out. And I'll just have a moment of inspiration. And sometimes I don't, and it's okay, but...yeah, dreams are <em>great</em>.</p>
+<p><a href="/images/hq/c-base_zack.jpeg"><img src="/images/c-base_zack.jpeg" alt="Zack Scholl performing at c-base" width="500"/></a></p>
+<p><strong>Dan</strong><br />
+Maybe to close the conversation: if you were just <em>now</em> coming into the landscape of music technology, with the vast marketplace of instruments, how would you start? Or maybe another way to put it is: if somebody was interested in exploring that landscape along the same paths that each of <em>you</em> has found, how would you recommend that they start?</p>
+<p><strong>Zack</strong><br />
+I think my biggest recommendation is just to record the things that you do in the very beginning. Even though you think that you're not good at it, you can later see where you came from, or even realize that you're <em>actually</em> pretty good at it. I've done that before and I missed a lot that I should have recorded from the beginning and my first uses of a lot of instruments and programs. And every time I reflect on them, I'm like, &quot;I really liked what I did.&quot; And I lost a bunch of stuff because I didn't record. Not necessarily to share, but just to have it for yourself.</p>
+<p><strong>Jonathan</strong><br />
+When I read about this kind of question, oftentimes there's discussion about setting an intention. Like, &quot;Well, what do you want to do?&quot; And then the next step is &quot;Okay, here's what you want to do&quot; -- so now you have to figure out what are the different pieces you have to put together in order to do that, so that you're not obtaining software or hardware that you don't end up needing. But that kind of presupposes an understanding of how the technology <em>works</em>. So I totally get that sense of like having an intention -- I think it's important to have a sense of &quot;What do you want to do?&quot;.</p>
+<p>But then the second step of &quot;I <em>maybe</em> know what I want to do, but what do I need to do that?&quot; is <em>hard</em>. So I would say, try to figure it out, but also be very <em>patient</em>. And maybe you'll discover along the way that you change your mind about what you want to do. Learn as you go.</p>
+<p>And don't worry too much about having tools. You probably, on your computer, right in front of you, have pretty much what you need to get started. And having <em>exactly</em> the right tools is not going to make you make better music.</p>
+<p><strong>Artem</strong><br />
+I think it's important to understand what you're doing. If you're programming synthesizers, I would recommend that you understand what's happening with the sound. How is it working? Or with code, what the compiler's doing -- <em>how</em> the code is going to get executed. Try to understand it to the depth that you can grasp. This allows you to express yourself in a more thought-through way, rather than just playing with a black box.</p>
+<p><strong>Hans</strong><br />
+I'm actually at that starting point. I'm just now starting to get into the tech stuff with music. And so I don't have any advice, but I have sort of feeling of the direction I want to take it -- and that is to find something I know, a process or way of working that I know and am comfortable with, and just try and focus on that and just take small steps to see what's going on. Maybe dipping into some code through scripts that you know, right? Just, small things. And don't lose yourself in the idea of wanting to learn it. If it becomes too big, then you might not know how to use it in the end.</p>
+<hr/>
+<p>updated 10/02/23</p>
+</div>
+</body>
+</html><!doctype html>

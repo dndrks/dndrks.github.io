@@ -1,4 +1,5 @@
-[![](/images/beloved_230820.png)](/beloved/230820.html)
+<a href="/spb2023.html"><img src="/images/c-base.jpeg" alt="flyer for c-base lines gathering" width="500"/></a>  
+[transcript: SOUND + PROCESS, live in Berlin <br> w/ Hans Jacobsen, Artem Popov, Zack Scholl and Jonathan Snyder](/spb2023.html)
 
 # sounds
 
