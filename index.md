@@ -72,6 +72,5 @@ writing for [Cycling '74](https://cycling74.com):
 # more
 
 [eulogy for my grandfather](/bruno.html)  
-[a fundraiser for my half-sister](/chelsea.html)  
 [images](/images)  
 [open tabs](/tabs)  
