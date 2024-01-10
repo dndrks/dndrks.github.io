@@ -1,8 +1,8 @@
 # upcoming event
 
-[free Digital Synthesis Workshop w/Rylee Lyman](/firehouse.html)!!
+### [free Digital Synthesis Workshop w/Rylee Lyman](/firehouse.html)!!
 
-<a href="/images/digitalsynthesis-firehouse.png"><img src="/images/digitalsynthesis-firehouse.png" alt="flyer for Digital Synthesis Workshop" width="500"/></a>  
+<a href="/firehouse.html"><img src="/images/digitalsynthesis-firehouse.png" alt="flyer for Digital Synthesis Workshop" width="500"/></a>  
 
 # sounds
 
@@ -16,6 +16,8 @@
 [less concepts](https://dndrks.bandcamp.com/album/less-concepts) (2018): experiments with cellular automata, modular synths, and Max programming
 
 # videos
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube-nocookie.com/embed/6vORtsaS3NI?si=RFHkBa7u8yZvTP7F' frameborder='0' allowfullscreen></iframe></div>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube-nocookie.com/embed/rWn1BL708l0' frameborder='0' allowfullscreen></iframe></div>
 
