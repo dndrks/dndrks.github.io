@@ -1,8 +1,12 @@
-# upcoming event
+# upcoming events
 
-### [free Digital Synthesis Workshop w/Rylee Lyman](/firehouse.html)!!
+### [free Digital Synthesis Workshop w/Rylee Lyman (Jan 28 2024)](/firehouse.html)
 
 <a href="/firehouse.html"><img src="/images/digitalsynthesis-firehouse.png" alt="flyer for Digital Synthesis Workshop" width="500"/></a>  
+
+### [Sunday Synthesis Study Sessions @ Luck Dragon (Feb 2024)](https://luckdragon.space/event/s4.html)
+
+<a href="https://luckdragon.space/event/s4.html"><img src="https://luckdragon.space/image/s4.jpg" alt="flyer for Digital Synthesis Workshop" width="500"/></a>  
 
 # sounds
 
