@@ -1,5 +1,5 @@
-<a href="/spb2023.html"><img src="/images/c-base.jpeg" alt="flyer for c-base lines gathering" width="500"/></a>  
-[transcript: SOUND + PROCESS, live in Berlin <br> w/ Hans Jacobsen, Artem Popov, Zack Scholl and Jonathan Snyder](/spb2023.html)
+<a href="/images/digitalsynthesis-firehouse.png"><img src="/images/digitalsynthesis-firehouse.png" alt="flyer for Digital Synthesis Workshop" width="500"/></a>  
+[free Digital Synthesis Workshop w/Rylee Lyman](/firehouse.html)
 
 # sounds
 
@@ -29,15 +29,17 @@ music hackspace courses for cheat codes 2: [getting started](https://musichacksp
 # words
 
 [SOUND + PROCESS, a lines podcast](https://soundcloud.com/sound-and-process/) (2016 and ongoing): discussions with artists from [llllllll.co](https://llllllll.co)  
+* [transcript: SOUND + PROCESS, live in Berlin <br> w/ Hans Jacobsen, Artem Popov, Zack Scholl and Jonathan Snyder](/spb2023.html)
+
 [Art + Music + Technology](https://artmusictech.libsyn.com/podcast-306-dan-derks) (2019): a conversation with Darwin Grosse, whose generosity and care for artists was + remains unmatched
 
 writing for [Cycling '74](https://cycling74.com):  
-[An Interview with Cy X, Multimedia Cyber Witch](https://cycling74.com/articles/an-interview-with-cy-x)  
-[An Interview with jr: Smartphones and Beyond](https://cycling74.com/articles/an-interview-with-jr-smartphones-maxforlive-device)  
-[Algorithms in Motion: Elementary Cellular Automata in Max and Max for Live](https://cycling74.com/tutorials/algorithms-less-concepts-max-for-live-device-cellular-automata)  
-[An Interview with Sarah Belle Reid](https://cycling74.com/articles/an-interview-with-sarah-belle-reid)  
-[Max for Live Devices: The Tools At Your Fingertips](https://cycling74.com/articles/ableton-max-for-live-devices-the-tools-at-your-fingertips)  
-[The Max for Live Resource Kit](https://cycling74.com/articles/the-max-for-live-resource-kit)
+* [An Interview with Cy X, Multimedia Cyber Witch](https://cycling74.com/articles/an-interview-with-cy-x)  
+* [An Interview with jr: Smartphones and Beyond](https://cycling74.com/articles/an-interview-with-jr-smartphones-maxforlive-device)  
+* [Algorithms in Motion: Elementary Cellular Automata in Max and Max for Live](https://cycling74.com/tutorials/algorithms-less-concepts-max-for-live-device-cellular-automata)  
+* [An Interview with Sarah Belle Reid](https://cycling74.com/articles/an-interview-with-sarah-belle-reid)  
+* [Max for Live Devices: The Tools At Your Fingertips](https://cycling74.com/articles/ableton-max-for-live-devices-the-tools-at-your-fingertips)  
+* [The Max for Live Resource Kit](https://cycling74.com/articles/the-max-for-live-resource-kit)
 
 # code
 

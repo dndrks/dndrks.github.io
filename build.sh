@@ -6,7 +6,7 @@ for file in $list ; do
   file=${file:2}
   file=${file%.*}
   echo "$file"
-  if [ $file == "spb2023" ] ; then
+  if [ $file == "spb2023" ] || [ $file == "firehouse" ]; then
     bkg="#d8d8d8"
     font="#000000"
     link="#b2ffff"
