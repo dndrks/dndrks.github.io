@@ -8,4 +8,4 @@
 **where:** the Firehouse in Worcester, MA  
     ^ contact [firehouseworcester@gmail.com](mailto:firehouseworcester@gmail.com) for directions  
 **cost:** free (donations v appreciated tho!)  
-**enroll:** [sign-up form can be found here](https://forms.gle/SJgC2yXuDKq9WNVX6)
+**enroll:** [sign-up form can be found here](https://forms.gle/SJgC2yXuDKq9WNVX6){:target="_blank"}

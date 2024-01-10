@@ -1,5 +1,8 @@
+# upcoming event
+
+[free Digital Synthesis Workshop w/Rylee Lyman](/firehouse.html)!!
+
 <a href="/images/digitalsynthesis-firehouse.png"><img src="/images/digitalsynthesis-firehouse.png" alt="flyer for Digital Synthesis Workshop" width="500"/></a>  
-[free Digital Synthesis Workshop w/Rylee Lyman](/firehouse.html)
 
 # sounds
 
