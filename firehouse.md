@@ -2,7 +2,7 @@
 
 <a href="/images/digitalsynthesis-firehouse.png" target="_blank"><img src="/images/digitalsynthesis-firehouse.png" alt="flyer for Digital Synthesis Workshop" width="500"/></a>
 
-## Digital Synthesis Workshop: 1p-4p
+## Digital Synthesis Workshop: 1p-4p (FULL)
 
 <a href="https://ryleealanza.org/" target="_blank">Rylee Lyman</a> and I will lead participants through the fundamentals of making and shaping sound through <a href="https://vcvrack.com/" target="_blank">VCV Rack</a>, a free software modular synthesizer. We’ll cover the basics of the program’s interface, dig into signal flow and mixing, and explore techniques for creating modulation and changing timbre. This workshop is perfect for those curious about modular synthesis, digital music making, and sound design.
 
@@ -11,7 +11,7 @@
     ^ contact [firehouseworcester@gmail.com](mailto:firehouseworcester@gmail.com) for directions  
 **cost:** $10-$15 donation (NOTAFLOF / no one turned away for lack of funds)  
 **requirements:**  personal laptop with the free version of VCV Rack 2 installed and personal wired headphones  
-**enroll:** <a href="https://forms.gle/SJgC2yXuDKq9WNVX6" target="_blank">sign-up form can be found here</a> -- space is limited to 20 participants, so please enroll early!  
+**enroll:** <a href="https://forms.gle/SJgC2yXuDKq9WNVX6" target="_blank">sign-up form can be found here</a> -- space is limited to 20 participants, and we are now full, but please sign up for the waitlist!
 
 <a href="/images/show-firehouse.png" target="_blank"><img src="/images/show-firehouse.png" alt="flyer for performance at Firehouse" width="500"/></a>  
 
