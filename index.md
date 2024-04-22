@@ -7,6 +7,7 @@
 ### [performance @ Comfort Station (Apr 27 2024)](/firehouse.html)
 
 <a href="/comfortstation.html"><img src="/images/20240427-show_square.png" alt="flyer for performance at Comfort Station" width="500"/></a>  
+(poster by [Rocky Cable](https://www.instagram.com/rocky.cable/))  
 
 # sounds
 

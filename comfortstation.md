@@ -13,6 +13,7 @@ Queer-led + beginner-friendly workshop perfect for anyone curious about modular 
 **enroll:** <a href="https://forms.gle/rLP9JPMQQUyvEyr6A" target="_blank">sign-up form can be found here</a> -- space is limited to 20 participants!
 
 <a href="/images/20240427-show_square.png" target="_blank"><img src="/images/20240427-show_square.png" alt="flyer for performance at Comfort Station" width="500"/></a>  
+(poster by [Rocky Cable](https://www.instagram.com/rocky.cable/))  
 
 ## performance: 7p-9p
 
