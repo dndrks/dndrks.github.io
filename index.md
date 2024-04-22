@@ -1,16 +1,12 @@
 # upcoming events
 
-### [Digital Synthesis Workshop w/Rylee Lyman (Jan 28 2024)](/firehouse.html)
+### [Introduction to Digital Synthesis workshop (Apr 27 2024)](/comfortstation.html)
 
-<a href="/firehouse.html"><img src="/images/digitalsynthesis-firehouse.png" alt="flyer for Digital Synthesis Workshop" width="500"/></a>  
+<a href="/comfortstation.html"><img src="/images/240427-basic_synthesis.png" alt="flyer for Introduction to Digital Synthesis workshop" width="500"/></a>  
 
-### [performance @ the Firehouse (Jan 28 2024)](/firehouse.html)
+### [performance @ Comfort Station (Apr 27 2024)](/firehouse.html)
 
-<a href="/firehouse.html"><img src="/images/show-firehouse.png" alt="flyer for performance at the Firehouse" width="500"/></a>  
-
-### [Sunday Synthesis Study Sessions @ Luck Dragon (Feb 2024)](https://luckdragon.space/event/s4.html)
-
-<a href="https://luckdragon.space/event/s4.html"><img src="https://luckdragon.space/image/s4.jpg" alt="flyer for Digital Synthesis Workshop" width="500"/></a>  
+<a href="/comfortstation.html"><img src="/images/20240427-show_square.png" alt="flyer for performance at Comfort Station" width="500"/></a>  
 
 # sounds
 
@@ -65,6 +61,8 @@ writing for [Cycling '74](https://cycling74.com):
 
 ### classes
 
+**February 2024** - [Sunday Synthesis Study Sessions @ Luck Dragon](https://luckdragon.space/event/s4.html)  
+**Jan 28 2024** - [Digital Synthesis Workshop w/Rylee Lyman](/firehouse.html) @ [Firehouse Worcester](https://firehouseworcester.neocities.org/)  
 **Aug 24 2023** - [Basic Synthesis](https://luckdragon.space/event/synthesis.html) @ [luck dragon](https://luckdragon.space)  
 **Aug 5 + 6 2023** - [habitus](https://infinitedigits.co/tinker/habitus/) @ [Funkhaus Berlin](https://www.funkhaus-berlin.net/), in partnership with [Urbiks Music](https://urbiks-music.com/)  
 **Aug 3 + 4 2023** - [habitus](https://infinitedigits.co/tinker/habitus/) @ [Funkhaus Berlin](https://www.funkhaus-berlin.net/), in partnership with [Urbiks Music](https://urbiks-music.com/)  
@@ -77,6 +75,7 @@ writing for [Cycling '74](https://cycling74.com):
 
 ### performances
 
+**Jan 28 2024** - [performance with Rylee Lyman and A. Campbell Payne](/firehouse.html) @ [Firehouse Worcester](https://firehouseworcester.neocities.org/)  
 **Aug 12 + 13 2023** - [opening for McQueen Adams @ Studio9](https://studio9porches.com/performance/studio9-presents-mcqueen-adams/)  
 **Aug 3 2023** - [monome meetup @ Patch Point (Berlin, Germany)](https://llllllll.co/t/monome-meetups-performances-patch-point-2-3-aug-2023-berlin-de/63317) w/ [Cengiz Arslanpay](https://cengizarslanpay.bandcamp.com/)  
 **Jun 18 2023** - [Ramona's Reading Den Series w/ Cisco Bradley](https://diamondhollowbooks.com/events) in support of his book *The Williamsburg Avant-Garde: Experimental Music and Sound on the Brooklyn Waterfront* @ Diamond Hollow Books  
