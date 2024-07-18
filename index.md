@@ -1,17 +1,8 @@
-# upcoming events
-
-### [Introduction to Digital Synthesis workshop (Apr 27 2024)](/comfortstation.html)
-
-<a href="/comfortstation.html"><img src="/images/240427-basic_synthesis.png" alt="flyer for Introduction to Digital Synthesis workshop" width="500"/></a>  
-
-### [performance @ Comfort Station (Apr 27 2024)](/firehouse.html)
-
-<a href="/comfortstation.html"><img src="/images/20240427-show_square.png" alt="flyer for performance at Comfort Station" width="500"/></a>  
-(poster by [Rocky Cable](https://www.instagram.com/rocky.cable/))  
+<a href="/beloved_240721.html"><img src="/images/beloved_240721.png" alt="July 2024 mix for Chicago's Beloved Radio" width="500"/></a> 
 
 # sounds
 
-[beloved.wtf](/beloved) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music ([most recent episode](/beloved/230820.html))
+[beloved.wtf](/beloved) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music ([most recent episode](/beloved/240721.html))
 
 [mirrored heart](https://dndrks.bandcamp.com/album/mirrored-heart) (2022 and ongoing): improvisations with *hills*, a script for [norns](https://monome.org/docs/norns)  
 [QUALIA](https://cachedmedia.bandcamp.com/album/qualia) (2022): collaborative compositions with Zander Raymond, recorded at monome in rural NY  
@@ -62,6 +53,7 @@ writing for [Cycling '74](https://cycling74.com):
 
 ### classes
 
+**Apr 27 2024** - [Introduction to Digital Synthesis workshop (Apr 27 2024)](/comfortstation.html)  
 **February 2024** - [Sunday Synthesis Study Sessions @ Luck Dragon](https://luckdragon.space/event/s4.html)  
 **Jan 28 2024** - [Digital Synthesis Workshop w/Rylee Lyman](/firehouse.html) @ [Firehouse Worcester](https://firehouseworcester.neocities.org/)  
 **Aug 24 2023** - [Basic Synthesis](https://luckdragon.space/event/synthesis.html) @ [luck dragon](https://luckdragon.space)  
@@ -76,6 +68,8 @@ writing for [Cycling '74](https://cycling74.com):
 
 ### performances
 
+**Jul 13 2024** - [performance @ Woodstockhausen, hosted by the Turquoise Barn](https://www.woodstockhausen.net/)  
+**Apr 27 2024** - [performance @ Comfort Station with Zander Raymond and Andrew CS](/comfortstation.html)
 **Jan 28 2024** - [performance with Rylee Lyman and A. Campbell Payne](/firehouse.html) @ [Firehouse Worcester](https://firehouseworcester.neocities.org/)  
 **Aug 12 + 13 2023** - [opening for McQueen Adams @ Studio9](https://studio9porches.com/performance/studio9-presents-mcqueen-adams/)  
 **Aug 3 2023** - [monome meetup @ Patch Point (Berlin, Germany)](https://llllllll.co/t/monome-meetups-performances-patch-point-2-3-aug-2023-berlin-de/63317) w/ [Cengiz Arslanpay](https://cengizarslanpay.bandcamp.com/)  
