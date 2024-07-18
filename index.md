@@ -1,4 +1,4 @@
-<a href="/beloved_240721.html"><img src="/images/beloved_240721.png" alt="July 2024 mix for Chicago's Beloved Radio" width="500"/></a> 
+<a href="/beloved/240721.html"><img src="/images/beloved_240721.png" alt="July 2024 mix for Chicago's Beloved Radio" width="500"/></a> 
 
 # sounds
 
