@@ -1,8 +1,8 @@
-<a href="/beloved/240721.html"><img src="/images/beloved_240721.png" alt="July 2024 mix for Chicago's Beloved Radio" width="500"/></a> 
+<a href="https://www.viewcy.com/e/emily_sprague__dani"><img src="/images/emily and dani.png" alt="Emily A. Sprague and dani derks at Avalon Lounge on September 15th 2024" width="500"/></a> 
 
 # sounds
 
-[beloved.wtf](/beloved) (2023 and ongoing): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music ([most recent episode](/beloved/240721.html))
+[beloved.wtf](/beloved) (2023-2024): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music ([last episode](/beloved/240721.html))
 
 [mirrored heart](https://dndrks.bandcamp.com/album/mirrored-heart) (2022 and ongoing): improvisations with *hills*, a script for [norns](https://monome.org/docs/norns)  
 [QUALIA](https://cachedmedia.bandcamp.com/album/qualia) (2022): collaborative compositions with Zander Raymond, recorded at monome in rural NY  
