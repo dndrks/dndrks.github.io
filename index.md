@@ -1,5 +1,3 @@
-<a href="https://www.viewcy.com/e/emily_sprague__dani"><img src="/images/emily and dani.png" alt="Emily A. Sprague and dani derks at Avalon Lounge on September 15th 2024" width="500"/></a> 
-
 # sounds
 
 [beloved.wtf](/beloved) (2023-2024): monthly internet radio show, featuring selections of ambient, alternative, experimental and percussive music ([last episode](/beloved/240721.html))
