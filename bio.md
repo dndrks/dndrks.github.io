@@ -5,6 +5,6 @@
 
 ### photos
 
-<a href="/images/dndrks-hq.png" target="_blank"><img src="/images/dndrks-hq.png" alt="dani derks photo 1" width="500"/></a>
+<a href="/images/hq/dndrks.png" target="_blank"><img src="/images/dndrks.png" alt="dani derks photo 1" width="500"/></a>
 
 <a href="/images/dndrks-purple.jpeg" target="_blank"><img src="/images/dndrks-purple.jpeg" alt="dani derks photo 2" width="500"/></a>
