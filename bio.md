@@ -5,6 +5,8 @@
 
 ### photos
 
-<a href="/images/hq/dndrks.png" target="_blank"><img src="/images/dndrks.png" alt="dani derks photo 1" width="500"/></a>
+<a href="/images/dndrks-field.jpg" target="_blank"><img src="/images/dndrks-field.jpg" alt="dani derks photo 1" width="500"/></a>
 
-<a href="/images/dndrks-purple.jpeg" target="_blank"><img src="/images/dndrks-purple.jpeg" alt="dani derks photo 2" width="500"/></a>
+<a href="/images/hq/dndrks.png" target="_blank"><img src="/images/dndrks.png" alt="dani derks photo 2" width="500"/></a>
+
+<a href="/images/dndrks-purple.jpeg" target="_blank"><img src="/images/dndrks-purple.jpeg" alt="dani derks photo 3" width="500"/></a>
