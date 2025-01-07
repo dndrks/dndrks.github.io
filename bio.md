@@ -1,6 +1,6 @@
 ### words
 
-[dani derks](https://dndrks.com) is part of the day-to-day operations at [monome](https://monome.org) in upstate NY, assembling both instruments and documentation for ways to engage with them. They build code through improvisation, creating their own environments for playful and exploratory music performance gestures.
+[dani derks](https://dndrks.com) is part of the day-to-day operations at [monome](https://monome.org) in upstate NY and a member of the extended universe of [whimsical raps](https://www.whimsicalraps.com) -- dani assembles instruments and creates documentation for ways to engage with them. Their personal projects are centered on coding through improvisation, creating their own environments for playful and exploratory music performance gestures.
 
 
 ### photos
