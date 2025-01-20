@@ -20,7 +20,7 @@
 **Apr 12 2020** - [open space: cheat codes improvisation](https://youtu.be/sefSi1cqWjU)  
 
 [various norns tutorials + demos on vimeo](https://vimeo.com/user16329159)  
-music hackspace courses for cheat codes 2: [getting started](https://musichackspace.org/product/getting-started-with-cheat-codes-2-a-sample-playground-for-monome-norns/) + [going further](https://musichackspace.org/events/going-further-with-cheat-codes-2-a-sample-playground-for-norns-live-session/)
+Music Hackspace courses for cheat codes 2: [getting started](https://musichackspace.org/product/getting-started-with-cheat-codes-2-a-sample-playground-for-monome-norns/) + [going further](https://musichackspace.org/events/going-further-with-cheat-codes-2-a-sample-playground-for-norns-live-session/)
 
 # words
 
@@ -48,7 +48,8 @@ writing for [Cycling '74](https://cycling74.com):
 
 ### classes
 
-**Apr 27 2024** - [Introduction to Digital Synthesis workshop (Apr 27 2024)](/comfortstation.html)  
+**Jan 18 2025** - [\_mix_lit presents a flat imagination workshop](https://www.eventbrite.com/e/-mix-lit-presents-a-flat-imagination-workshop-goodbye-mind-dani-derks-tickets-1116860623189) @ [The Perch Music & Arts Workshop](https://www.emeraldwildflowergarden.org/the-perch-music-arts-studio)  
+**Apr 27 2024** - [Introduction to Digital Synthesis](/comfortstation.html)  
 **Feb 2024** - [Sunday Synthesis Study Sessions @ Luck Dragon](https://luckdragon.space/event/s4.html)  
 **Jan 28 2024** - [Digital Synthesis Workshop w/Rylee Lyman](/firehouse.html) @ [Firehouse Worcester](https://firehouseworcester.neocities.org/)  
 **Aug 24 2023** - [Basic Synthesis](https://luckdragon.space/event/synthesis.html) @ [luck dragon](https://luckdragon.space)  
@@ -63,9 +64,10 @@ writing for [Cycling '74](https://cycling74.com):
 
 ### performances
 
+**Jan 17 2025** - [\_mix_lit presents a flat imagination workshop](https://www.eventbrite.com/e/-mix-lit-presents-a-flat-imagination-workshop-goodbye-mind-dani-derks-tickets-1116860623189) @ [The Perch Music & Arts Workshop](https://www.emeraldwildflowergarden.org/the-perch-music-arts-studio)  
 **Sep 15 2024** - [Emily A. Sprague and dani derks at Avalon Lounge](https://www.viewcy.com/e/emily_sprague__dani)  
 **Jul 13 2024** - [performance @ Woodstockhausen, hosted by the Turquoise Barn](https://www.woodstockhausen.net/)  
-**Apr 27 2024** - [performance @ Comfort Station with Zander Raymond and Andrew CS](/comfortstation.html)
+**Apr 27 2024** - [performance @ Comfort Station with Zander Raymond and Andrew CS](/comfortstation.html)  
 **Jan 28 2024** - [performance with Rylee Lyman and A. Campbell Payne](/firehouse.html) @ [Firehouse Worcester](https://firehouseworcester.neocities.org/)  
 **Aug 12 + 13 2023** - [opening for McQueen Adams @ Studio9](https://studio9porches.com/performance/studio9-presents-mcqueen-adams/)  
 **Aug 3 2023** - [monome meetup @ Patch Point (Berlin, Germany)](https://llllllll.co/t/monome-meetups-performances-patch-point-2-3-aug-2023-berlin-de/63317) w/ [Cengiz Arslanpay](https://cengizarslanpay.bandcamp.com/)  
@@ -76,6 +78,7 @@ writing for [Cycling '74](https://cycling74.com):
 
 # more
 
+[connect on bluesky](https://bsky.app/profile/dndrks.com)  
 [eulogy for my grandfather](/bruno.html)  
 [images](/images)  
 [open tabs](/tabs)  
