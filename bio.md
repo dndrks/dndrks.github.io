@@ -5,6 +5,11 @@
 
 ### photos
 
-<a href="/images/dani-purple2025.jpg" target="_blank"><img src="/images/dani-purple2025.jpg" alt="dani derks in LA" width="500"/></a>
+<a href="/images/dani-woodstockhausen-photo-by-craig-chin.jpg" target="_blank"><img src="/images/dani-woodstockhausen-photo-by-craig-chin.jpg" alt="dani derks at Woodstockhausen East 2025" width="500"/></a>  
+^ photo by [Craig Chin](https://www.errant.space/)
 
-<a href="/images/dani-field.jpg" target="_blank"><img src="/images/dani-field.jpg" alt="dani derks in a field" width="500"/></a>
+<a href="/images/dani-purple2025-photo-by-brandon-tani.jpg" target="_blank"><img src="/images/dani-purple2025-photo-by-brandon-tani.jpg" alt="dani derks in LA" width="500"/></a>  
+^ photo by [Brandon Tani](https://www.brandontani.com/)
+
+<a href="/images/dani-field-photo-by-lindsay-nolin.jpg" target="_blank"><img src="/images/dani-field-photo-by-lindsay-nolin.jpg" alt="dani derks in a field" width="500"/></a>  
+^ photo by [Lindsay Nolin](http://www.lindsayn.com/)
